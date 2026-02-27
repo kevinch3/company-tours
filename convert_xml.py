@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Convert nievemar XML files to JSON for static site.
+Convert company-tour XML files to JSON for static site.
 Run from the nievemar-update directory, with source XML in ../2017/www/nievemar/.
 """
 import json

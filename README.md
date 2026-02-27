@@ -1,9 +1,9 @@
-# Nievemar Tours — Static Site Archive
+# Company Tours — Static Site Archive
 
-Archived version of the **Nievemar Tours** website, originally built in PHP + XML (c. 2017).
+Archived version of the **Company Tours** website, originally built in PHP + XML (c. 2017).
 This version is fully static and can be hosted on GitHub Pages with no backend required.
 
-> **Note:** This is a historical archive. For the current, live site visit [nievemartours.tur.ar](https://nievemartours.tur.ar).
+> **Note:** This is a historical archive. For the current, live site visit [companytours.tur.ar](https://companytours.tur.ar).
 
 ---
 

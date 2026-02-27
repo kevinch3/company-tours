@@ -1,4 +1,4 @@
-// Nievemar Tours — static site JS router
+// Company Tours — static site JS router
 // Replicates the PHP + XML rendering from the original site.
 
 var LANGS = ['espanol', 'english', 'francais', 'portuguese', 'italiano', 'deutsch'];
