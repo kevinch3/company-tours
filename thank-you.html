@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Nievemar Tours</title>
+<link href="estilo.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="favicon.ico"/>
+</head>
+<body>
+<div id="container">
+  <div id="wrapper">
+    <div class="fullwidth" id="header">
+      <div class="logo" style="display: inline-block;">
+        <a href="index.html"><img src="imagenes/logo.svg" border="0" /></a>
+      </div>
+    </div>
+    <div class="fullwidth" style="margin-top: 40px; text-align: center;">
+      <div class="tabloque main" style="padding: 40px;">
+        <p id="msg" style="font-size: 1.2em;"></p>
+        <p id="redirect-msg" style="color: #888; font-size: 0.9em;"></p>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+  var messages = {
+    espanol:    'Su mensaje ha sido enviado. En breve responderemos a su email.',
+    english:    'Your message has been sent. We will answer your e-mail shortly.',
+    francais:   'Votre message a été envoyé. Nous répondrons à votre courriel en bref.',
+    portuguese: 'Sua mensagem foi enviada. Em breve responderemos a seu email.',
+    italiano:   'Il tuo messaggio è stato inviato. A breve risponderemo alle vostre email.',
+    deutsch:    'Ihre e-mail ist gesendet, Sie erhalten demnächst eine Antwort.'
+  };
+  var redirectMsgs = {
+    espanol:    'Redirigiendo...',
+    english:    'Redirecting...',
+    francais:   'Redirection...',
+    portuguese: 'Redirecionando...',
+    italiano:   'Reindirizzamento...',
+    deutsch:    'Weiterleiten...'
+  };
+
+  var p = new URLSearchParams(window.location.search);
+  var lang = p.get('lang') || 'espanol';
+  if (!messages[lang]) lang = 'espanol';
+
+  document.getElementById('msg').textContent = messages[lang];
+  document.getElementById('redirect-msg').textContent = redirectMsgs[lang];
+
+  setTimeout(function () {
+    window.location.href = 'index.html?lang=' + lang + '&data=cnt';
+  }, 4000);
+</script>
+</body>
+</html>

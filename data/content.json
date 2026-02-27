@@ -1,0 +1,938 @@
+{
+  "espanol": {
+    "sections": {
+      "idx": {
+        "html": "<h1>El Mejor Servicio Turístico...</h1>\n\t\t\t<p>Nievemar Tours S.R.L. lo invita a conocer los lugares mas sobresalientes de la Patagonia Sur, declarados de interés nacional e internacional: Península Valdés, Punta Tombo, permitiendo realizar interesantes recorridos zonales que integran a Trelew, Puerto Madryn, Rawson, Playa Unión, Puerto Pirámide, Dique Florentino Ameghino, colonia galesa Gaiman, Glaciar Perito Moreno y la ciudad más austral del mundo: Ushuaia.<p>\n\t\t\t<br>\n\t\t\t<h4>Trelew</h4>\n\t\t\t<p>Italia 20 - Tel 54-280-4434114 /4435646 - Fax:54-280-4423624</p>\n\t\t\t<p>C.P. 9100 Trelew, Argentina.</p>"
+      },
+      "nos": {
+        "html": "<h1 class=\"azul\">Reseńa Histórica</h1>\n\t\t<p>Nievemar Tours S.R.L., nació en Junio de 1983, primero cono sociedad de hecho entre José Pedro Miranda y Miguel Angel Miranda, luego, desde 1986 a la fecha , como S.R.L.</p>\n\t\t<p>Desde los comienzos la agencia comercializó pasajes aéreos y excursiones dentro y fuera del país, a partir del ańo 1984 comenzaba  como operadora de  turismo receptivo en la zona. Ofreciendo una lista importante de hoteles en Puerto Madryn y Trelew,  traslados y excursiones a las loberias y elefanterías marinas de Península Valdés,  la pingüinera de Punta Tombo, Dique Ameghino, bosques petrificados, navegación de avistaje de Ballenas Francas y Delfines. Etc.   También en ese ańo , recibio el certificado como agencia  I.A.T.A.</p>\n\t\t<p>\tCon el correr de los ańos la empresa fue adquiriendo vehículos de transporte de pasajeros. Cuenta en la actualidad con una importante flota de vehículos casi 0KM, todos con equipamiento full. Sus únicos dos socios, (padre e hijo), tienen diferentes roles dentro de la sociedad. Miguel, con experiencia laboral de 4 ańos en Aerolíneas Argentinas  tiene a su cargo la parte comercial y operativa y José Pedro en el pasado relacionado al rubro automotor, por representar las marcas  Peugeot, Citroen y Mercedes Benz, aporta la experiencia necesaria en  los talleres propios que posee la Empresa, donde se realiza toda  la mantensión  de los vehículos, desde lavado, engrase, gomería, pintura y mecánica en general.</p>\n\t\t<p>\tAdemás con  sus dos oficinas operativas y de atención al publico, en Puerto Madryn y Trelew, con personal bilingüe  y guías turísticos habilitados, en casi todos los idiomas, ofrece a sus clientes suficientes garantías de servicio, calidad y presencia.</p>\n\t\t<p>\tEn Diciembre de 2007 recibió el distintivo de Compromiso de Calidad Turística Argentina, asociado al proyecto de Modelo de Aproximación a la Calidad SCTE Buenas Prácticas, otorgado por la Dirección de Gestión de Calidad Turística de la Secretaría de Turismo de la Nación.\t</p>",
+        "titulares": [
+          {
+            "label": "Reseńa Histórica",
+            "data": "nos",
+            "icon": "fa fa-info"
+          },
+          {
+            "label": "Nuestra Oficina",
+            "data": "nos_oficinas",
+            "icon": "fa fa-building-o"
+          },
+          {
+            "label": "Nuestros Vehículos",
+            "data": "nos_vehiculos",
+            "icon": "fa fa-truck"
+          },
+          {
+            "label": "Nuestros Talleres",
+            "data": "nos_talleres",
+            "icon": "fa fa-wrench"
+          }
+        ]
+      },
+      "nos_oficinas": {
+        "html": "<h1 class=\"azul\">Nuestras Oficinas</h1>\n\t\t<p>Nievemar Tours posee oficinas en la ciudades de Trelew y Puerto Madryn con personal bilingüe y guías turísticos habilitados en casi todos los idiomas, ofrece a sus clientes garantías de servicio, calidad y presencia.</p>\n\t\t<br>\n\t\t<div class=\"full\"  style=\"text-align: center;\">\n\t\t\t<img src=\"imagenes/trelew.jpg\" /><br>\n\t\t\t<pre>Italia 20 - Tel 54-280-4434114 /4435646 - Fax:54-280-4423624. Trelew, Argentina.</pre>\n\t\t\t<br>\n\t\t</div>"
+      },
+      "nos_vehiculos": {
+        "html": "<h1 class=\"azul\">Nuestros Vehículos</h1>\n\t\t<p>Nievemar Tours posee vehículos de transporte de pasajeros. Cuenta en la actualidad con una importante flota de vehículos con equipamiento full. Buses de 45, 24, 19 y 14 asientos, autos y vehículos 4x4.</p>\n\t\t<div class=\"full\" style=\"text-align: center;\">\n\t\t\t<img src=\"imagenes/vehiculos.jpg\" /><br>\n\t\t\t<img src=\"imagenes/flota_colec.jpg\" /><br>\n\t\t\t<img src=\"imagenes/flota_duster.jpg\" />\n\t\t</div>"
+      },
+      "nos_talleres": {
+        "html": "<h1 class=\"azul\">Talleres de mantenimiento</h1>\n\t\t<p>La empresa posee talleres propios para la mantención de los vehículos y planta de combustible propia.</p>\n\t\t<div class=\"full\"  style=\"text-align: center;\">\n\t\t\t<img src=\"imagenes/talleres.jpg\" />\n\t\t</div>"
+      },
+      "srv": {
+        "titulares": [
+          {
+            "label": "Paquetes turísticos",
+            "data": "srv",
+            "icon": "fa fa-gift"
+          },
+          {
+            "label": "Excursiones",
+            "data": "srv_excursiones",
+            "icon": "fa fa-globe"
+          },
+          {
+            "label": "Avistaje de Ballenas",
+            "data": "srv_avistaje",
+            "icon": "fa fa-camera-retro"
+          },
+          {
+            "label": "Hoteles",
+            "data": "srv_hoteles",
+            "icon": "fa fa-hospital-o"
+          },
+          {
+            "label": "Calendario de Fauna",
+            "data": "srv_calendario",
+            "icon": "fa fa-calendar"
+          },
+          {
+            "label": "Mapas",
+            "data": "srv_mapas",
+            "icon": "fa fa-map-marker"
+          }
+        ],
+        "intro": "<h1 class=\"rojo\">Paquetes Turísticos</h1>\n\t\t\t<p>En Nievemar los esperamos con múltiples opciones en Paquetes Turísticos. Destinos como Península Valdés, Puerto Pirámide, Caleta Valdés, Isla de los Pájaros, Puerto Madryn, Punta Tombo, Valle Inferior del Río Chubut, Gaiman (Colonia Galesa), Playa Unión, Puerto Rawson, Esquel, Parque Nacional Los Alerces, Bariloche, El  Calafate, Glaciar Perito Moreno,  Ushuaia, Canal de Beagle, Museo del Fin del Mundo, Torres del Paine (Chile), Puerto Natales (Chile), Monte Fitz Roy, El Chalten, Lago Viedma...</p>\n\t\t\t<p>Hoteles de 2, 3 y 4 estrellas, Hosterías, Posadas y Estancias. Traslados Alojamientos, desayunos, Avistaje de Ballenas, Orcas, Delfines, Toninas, Excursiones, Elefantes Marinos, Lobos Marinos, Pingüinos, Caminatas...</p>",
+        "paquetes": [
+          {
+            "id": "1",
+            "titulo": "Península Valdés #1",
+            "html": "<li>2 Noches de alojamiento en el hotel elegido, con desayuno</li>\n\t\t\t\t\t<li>Traslado de llegada y salida</li>\n\t\t\t\t\t<li>Excursión de día entero a la Península Valdés </li>"
+          },
+          {
+            "id": "1",
+            "titulo": "Península Valdés #2",
+            "html": "<li>3 Noches de alojamiento en el hotel elegido, con desayuno </li>\n\t\t\t\t\t<li>Traslado de llegada y salida </li>\n\t\t\t\t\t<br><br>\n\t\t\t\t\t<li>Excursion de dia entero a la Península Valdés </li>\n\t\t\t\t\t<li>Excursión pingüinera de Punta Tombo.</li>"
+          },
+          {
+            "id": "1",
+            "titulo": "Península Valdés #3",
+            "html": "<li>3 Noches de alojamiento en el hotel elegido, con desayuno, traslado de llegada y salida </li>\n\t\t\t\t\t<li>Excursión de dia entero a la Península Valdés </li>\n\t\t\t\t\t<li>Excursión de día entero a la pinguinera de Punta Tombo y Colonia Galesa.</li>"
+          },
+          {
+            "id": "4",
+            "titulo": "Ornitólogos en Patagonia",
+            "html": "<h4>Día 1 Viedma</h4>\n\t\t\t\t\t<p>Arribo al aeropuerto de Viedma, traslado al hotel cena.</p>\n\t\t\t\t\t<h4>Día 2 Viedma</h4>\n\t\t\t\t\t<p>Partida temprano por la mańana hacia la \"Caleta de los Loros\" la mayor concentración de Loros Barranqueros del mundo (Cyanoliseus patagonus) en el camino podemos ver ejemplares de Inambú Petiso (Nothura darwinii) y Martinetas (Eudromia Elegans) como así varios paseriformes y rapaces.</p>\n\t\t\t\t\t<h4>Día 3  Viedma - San Antonio Oeste - Península Valdés</h4>\n\t\t\t\t\t<p>Traslado terrestre con múltiples paradas para observar especies tales como el Cardenal Amarillo (Gubernatrix cristata), o el Sobrepuesto (Lessonia rufa) Alojamiento en hotel o estancia en la Península Valdés.</p>\n\t\t\t\t\t<h4>Día 4  Península Valdés</h4>\n\t\t\t\t\t<p>Día dedicado a recorrer la península observando una variedad de paseriformes de diversas familias típicas de la estepa patagónica como el Canastero Patagónico (Asthenes patagónica) y costeras como el Petrel Gigante (Macronectes giganteus) o Córmoran Roquero (Phalacrocorax magellanicus)</p>\n\t\t\t\t\t<h4>Día 5  Península Valdés -  Valle del Chubut</h4>\n\t\t\t\t\t<p>Partiendo desde el hotel o la Estancia  rumbo al sur llegamos al Valle del Chubut, donde disfrutaremos de la identificación de al menos 20 acuáticas distintas en las Lagunas del Ornitólogo, en las cercanías de Trelew. Alojamiento en Gaiman (chacra u hostería).</p>\n\t\t\t\t\t<h4>Día 6  Gaiman</h4>\n\t\t\t\t\t<p>Partida rumbo al dique Florentino Ameghino observando diversas especies de las mesetas patagónicas hasta llegar a cańón del dique y sus murallones de roca ideales para ver rapaces y carrońeros.</p>\n\t\t\t\t\t<h4>Día 7  Gaiman  - Punta Tombo - Aeropuerto </h4>\n\t\t\t\t\t<p>Salida hacia  Punta Tombo, la reserva de  mayor concentración de Pinguinos de Magallanes (Spheniscus magellanicus) del mundo.  Por la tarde traslado al aeropuerto.</p>"
+          },
+          {
+            "id": "6",
+            "titulo": "Posada Los Mimbres - Colonia Galesa",
+            "html": "<h4>Día 1:</h4>\n\t\t\t\t\t<p>Recepcion en aeropuerto y traslado al hotel elegido en la ciudad de Puerto Madryn o Trelew. Alojamiento. </p>\n\t\t\t\t\t<h4>Día 2: </h4>\n\t\t\t\t\t<p>Desayuno. Excursion de dia entero a la Península de Valdés. Visitando Puerto Pirámide (opcional navegación), y la Elefantería marina  de Caleta Valdés o Punta Norte. Por la tarde regresamos al hotel.</p>\n\t\t\t\t\t<h4>Día 3:</h4>\n\t\t\t\t\t<p>Desayuno.  Excursion de ˝ dia a la pingüinera de Punta Tombo. Por la tarde traslado a Gaiman (Colonia Galesa) y Alojamiento en  granja \"Posada Los Mimbres\". Tarde libre.</p>\n\t\t\t\t\t<h4>Día 4: </h4>\n\t\t\t\t\t<p>Desayuno. Mańana libre para desarrollar actividades de granja. Traslado al aeropuerto.</p>"
+          },
+          {
+            "id": "7",
+            "titulo": "Península Valdés - Colonia Galesa",
+            "html": "<h4>Día 1:</h4>\n\t\t\t\t\t<p>Recepción en Aeropuerto de Trelew y traslado al Hotel elegido. Alojamiento.</p>\n\t\t\t\t\t<h4>Día 2: </h4>\n\t\t\t\t\t<p>Desayuno. Traslado a la Península de Valdés, visitando el Istmo Ameghino, Isla de los Pájaros y Pto. Pirámide (opcional navegacion ballenas ). Por la tarde alojamiento en la Estancia Rincón Chico o La Elvira .</p>\n\t\t\t\t\t<h4>Día 3:</h4>\n\t\t\t\t\t<p>Desayuno. Mańana libre para realizar actividades de campo. Por la tarde excursion a la elefanteria marina de Caleta Valdés  y regreso a  Pto. Madryn o Trelew.  Alojamiento en hotel elegido.</p>\n\t\t\t\t\t<h4>Día 4: </h4>\n\t\t\t\t\t<p>Desayuno. Excursión a la pingüinera de Punta Tombo y Gaiman,  alojamiento  en la  Posada los Mimbres (opcional senderismo o tareas de granja).</p>\n\t\t\t\t\t<h4>Día 5:</h4>\n\t\t\t\t\t<p>Desayuno. Tiempo libre. Traslado a aeropuerto de Trelew</p>"
+          },
+          {
+            "id": "8",
+            "titulo": "Estancias de Península Valdés",
+            "html": "<h4>Día 1:</h4><p>Recepción en Aeropuerto de Trelew y traslado al Hotel elegido. Alojamiento.</p>\n\t\t\t\t\t<h4>Día 2:</h4><p>Desayuno. Traslado a  la Península de Valdés, visitando el Istmo Ameghino, Isla de los Pájaros y  Pto. Pirámide (opcional navegacion ballenas ). Por la tarde, traslado a Punta Delgada y alojamiento en  la  Estancia Rincon Chico. Cena incluida.</p>\n\t\t\t\t\t<h4>Día 3:</h4><p>Desayuno. Mańana libre para realizar actividades de campo. Por la tarde excursion a la elefanteria marina de Caleta Valdés,  traslado a Punta Norte y  alojamiento en Estancia La Elvira. Cena incluída.</p>\n\t\t\t\t\t<h4>Día 4:</h4><p>Desayuno. Excursion  de fauna, por la tarde traslado a Puerto Madryn. Alojamiento en hotel elegido.</p>\n\t\t\t\t\t<h4>Día 5:</h4><p>Desayuno. Traslado a aeropuerto de Trelew.</p>"
+          },
+          {
+            "id": "9",
+            "titulo": "Colonia Galesa",
+            "html": "<h4>Día 1:</h4><p>Recepción en aeropuerto de Trelew y traslado al Hotel elegido. Alojamiento.</p>\n\t\t\t\t\t<h4>Día 2:</h4><p>Desayuno. Excursion de día entero a la Península de Valdés visitando Puerto Pirámide (opcional navegación ballenas), y la elefantería marina de Caleta Valdés o Punta Norte.</p>\n\t\t\t\t\t<h4>Día 3:</h4><p>Desayuno. Excursión de dia entero a la pingüinera de Punta Tombo y Gaiman (Colonia Galesa), City Tour y alojamiento en la Hosteria Gwesty Tywi, ambientada en una antigua vivienda de estilo galés.</p>\n\t\t\t\t\t<h4>Día 4:</h4><p>Desayuno. Día libre para visitar el parque  Paleontológico Bryn Gwyn o las capillas galesas del valle.</p>\n\t\t\t\t\t<h4>Día 5:</h4><p>Desayuno. Traslado al aeropuerto de Trelew.</p>"
+          },
+          {
+            "id": "15",
+            "titulo": "Bahía Bustamante",
+            "html": "<h4>Día 1:</h4><p>Recepción en aeropuerto de Trelew y traslado hasta Bahia Bustamante, pequeńo pueblo alguero. Único en el mundo ubicado en el extremo norte del golfo san jorge , a 250 km del eropuerto de trelew. alojamiento en casas de 2 habitaciones dobles, equipadas completas, por 2 noches con pensión completa. </p>\n\t\t\t\t\t<h4>Día 2:</h4><p>Durante la estadía se podran realizar excursiones para avistaje de lobos marinos, pingüinos, avifauna en general , incluye también una navegacion por la caleta malaspina avistando diferentes aves marinas. También se puede visitar un bosque petrificado, otras actividades que se pueden realizar es pesca de costa y mountain bike </p>\n\t\t\t\t\t<h4>Día 3:</h4><p>Traslado al aeropuerto de Trelew.</p>"
+          },
+          {
+            "id": "16",
+            "titulo": "El Pedral",
+            "html": "<h4>Día 1:</h4><p>Recepción en Aeropuerto de Trelew y traslado hasta la Estancia El Pedral muy cerca de Punta Ninfas, extremo sur del Golfo Nuevo, a 100 km del apto de Trelew. Alojamiento en el lodge en habitaciones dobles con bańo privado. Por 2 noches con pensión completa, incluida las bebidas y la merienda</p>\n\t\t\t\t\t<h4>Día 2:</h4><p>Durante la estadía se podrán realizar excursiones para avistaje de elefantes marinos, avifauna en general, incluye también otras actividades como pesca de costa, pesca embarcado, ski acuático mountain bike, trekking, etc. </p>\n\t\t\t\t\t<h4>Día 3:</h4><p>Traslado al aeropuerto de Trelew.</p>"
+          },
+          {
+            "id": "17",
+            "titulo": "Programa ruta 40",
+            "html": "<h4>Día 1:</h4><p>Salida desde Puerto Madryn o Trelew,  hacia la Pingüinera de Punta Tombo y continuación del viaje hasta Comodoro Rivadavia, o Recepción en Aeropuerto de Comodoro Rivadavia y traslado al Hotel. (1ngt)</p>\n\t\t\t\t\t<h4>Día 2:</h4><p>Salida desde Comodoro Rivadavia ,visitando el bosque petrificado Sarmiento muy cerca de la localidad de Sarmiento, continuando por ruta 40 hacia Perito Moreno y alojamiento en el pueblo de  Los Antiguos. (1ngt)</p>\n\t\t\t\t\t<h4>Día 3:</h4><p>Salida por ruta 41  hacia Lago Posadas , con hermosas vistas de los ríos Jainemeni y Zeballos  y la imponente  Cerro San Lorenzo, arribo  y alojamiento. (1ngt)</p>\n\t\t\t\t\t<h4>Día 4:</h4><p>Salida hacia ruta 40 y visita al cañón del Río Pinturas y las Cuevas de las Manos, sitio declarado Patrimonio de la Humanidad por UNESCO. Arribo a la estancia La Angostura  y alojamiento. (1 ngt)</p>\n\t\t\t\t\t<h4>Día 5:</h4><p>Salida por ruta 40, bordeando el lago Cardiel, arribando a El Chanten y traslado al hotel.(1ngt)</p>\n\t\t\t\t\t<h4>Día 6:</h4><p>Salida hacia El Calafate, bordeando el lago Viedma, y arribo al hotel.</p>\n\t\t\t\t\t<pre>Nota: El día 3, por ruta 41, dependerá del estado de la ruta, si esta intransitable, el recorrido se hace por ruta 40, visitando Cuevas de las Manos, y dejando la Garganta del Río Oro para el día 4.</pre>\n\t\t\t\t\t<p>Servicios privados con chofer guía español, no incluye entradas a reservas de fauna  y parques</p>\n\t\t\t\t\t<h4>Hoteles</h4>\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>Comodoro Rivadavia: Hotel Austral</li>\n\t\t\t\t\t\t<li>Los Antiguos: Hostería Antigua Patagonia</li>\n\t\t\t\t\t\t<li>Lago Posadas: Hostería La Posada del Posadas</li>\n\t\t\t\t\t\t<li>Gobernador Gregores: Estancia la Angostura</li>\n\t\t\t\t\t\t<li>El Chaltén: Hostería Casa de Piedra</li>\n\t\t\t\t\t</ul>"
+          },
+          {
+            "id": "18",
+            "titulo": "Programa ruta 3 Sur",
+            "html": "<pre>(5 días – 4 noches)</pre>\n\t\t\t\t\t\t<h4>Día 1:</h4><p>Salida desde Puerto Madryn o Trelew, hacia la Pingüinera de Punta Tombo y continuación del viaje hasta Comodoro Rivadavia, o Recepción en Aeropuerto de Comodoro Rivadavia y traslado al Hotel. (1ngt)</p>\n\t\t\t\t\t\t<h4>Día 2:</h4><p>Salida hacia Puerto Deseado y alojamiento en Hotel (1 ngt). Por la tarde opcional navegación por la Ría  Deseado.</p>\n\t\t\t\t\t\t<h4>Día 3:</h4><p>Salida hacia bosque Petrificado Jaramillo, continuando hasta Puerto San Julián. Alojamiento (1 ngt).</p>\n\t\t\t\t\t\t<h4>Día 4:</h4><p>Salida hacia el Parque Nacional Monte León, visita a la pingüinera y lobería marina. Alojamiento en la Estancia Monte León o en Isla Pavón.</p>\n\t\t\t\t\t\t<h4>Día 5:</h4><p>Salida hacia El Calafate</p>\n\t\t\t\t\t\t<pre>Servicios privados con chofer guía español, no incluye entradas a reservas de fauna  y parques</pre>\n\t\t\t\t\t\t<h4>Hoteles</h4>\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t<li>Comodoro Rivadavia: Hotel Austral</li>\n\t\t\t\t\t\t\t\t<li>Puerto Deseado: Hotel Los Acantilados</li>\n\t\t\t\t\t\t\t\t<li>Bahía San Julian: Hotel Bahia</li>\n\t\t\t\t\t\t\t\t<li>Monte León o Isla Pavón</li>\n\t\t\t\t\t\t\t</ul>"
+          }
+        ]
+      },
+      "srv_excursiones": {
+        "html": "<div id=\"showhide\">\n<h1><i class=\"fa fa-arrows-alt\"></i> Tabla Excursiones</h1>\n<div>\n<p>\n<table width=\"100%\" border=\"0\">\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>EXCURSION </p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>DESDE: </p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>SALE </p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>REGRESA</p></td>\n  </tr>\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>A Península Valdés</p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>Trelew </p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>7:15 hs.</p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>20:00 hs.</p></td>\n  </tr>\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>&nbsp;</p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>8:30 hs.</p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>19:00 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>A Punta Tombo</p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>Puerto Madryn </p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>8:00 hs.</p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>18:30 hs.</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn </p></td>\n    <td class=\"cpo\"><p>8:00 hs.</p></td>\n    <td class=\"cpo\"><p>15:30 hs. Apto. Trelew</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>9:15 hs. </p></td>\n    <td class=\"cpo\"><p>15:30 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Colonia Galesa</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>14:30 hs.</p></td>\n    <td class=\"cpo\"><p>19:00 hs.</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>13:30 hs.</p></td>\n    <td class=\"cpo\"><p>20:00 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>Bosque Petrificado con Dique Ameghino</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>8:00 hs.</p></td>\n    <td class=\"cpo\"><p>17:30 hs.</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>9:00 hs.</p></td>\n    <td class=\"cpo\"><p>16:30 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Península Valdés con Pernocte</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>7:15 hs.</p></td>\n    <td class=\"cpo\"><p>20:00 hs. (día Sig.)</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>8:30 hs.</p></td>\n    <td class=\"cpo\"><p>19:00 hs. (día Sig.)</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Navegación Tonina Overa (Delfin)</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>Consultar Mareas</p></td>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>Consultar Mareas</p></td>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Punta Ninfas</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>8:30hs</p></td>\n    <td class=\"cpo\"><p>17:00hs</p></td>\n  </tr>\n  <tr>\n    <td colspan=\"4\" valign=\"top\"><p><em>Navegación de avistaje de Ballenas Franca , desde Puerto Pirámides, sale cuando arriba la excursión.</em></p></td>\n  </tr>\n</table>\n</p>\n</div>\n</div>"
+      },
+      "srv_avistaje": {
+        "html": "<h1 class=\"rojo\">Ballenas</h1>\n\t\t\t<p>La navegación de avistaje de Ballenas Francas, sale desde Puerto Pirámide en la Península Valdés, en embarcaciones de no más de 50 pasajeros. Se provee salvavidas y capas de agua.</p>\n\t\t\t<p>La duración de la navegación, depende de la distancia en que se encuentran Las Ballenas, normalmente esta excursión no excede de 1,30 hs a 2 hs. </p>\n\t\t\t<h1 class=\"rojo\">Toninas</h1>\n\t\t\t<p>La navegación de avistaje de Tonina Overa, sale desde Puerto Rawson, en embarcaciones de no más de 15 pasajeros. Se provee salvavidas y capas de agua.</p>\n\t\t\t<br>\n\t\t\t<pre>La duración de la navegación no excede 1 hora.</pre>"
+      },
+      "srv_calendario": {
+        "html": "<h1 class=\"rojo\">Calendario de Fauna</h1>\n\t\t\t<p>Esta tabla resume la principal fauna existente en las reservas de Punta Tombo y de Península Valdés y es una fuente de información para que los agentes de viajes puedan ofrecer los mejores servicios turísticos. </p>\n\t\t\t<img src=\"imagenes/calendario.gif\" />\n\t\t\t<h4>Fauna Permanente:</h4>\n\t\t\t<p>Ńanduces, guanacos, maras, liebres, martinetas, zorros, zorrinos y una gran variedad de pájaros. </p>\n\t\t\t<img src=\"imagenes/faunaestable.jpg\" />"
+      },
+      "srv_hoteles": {
+        "html": "<h1 class=\"rojo\">Hoteles</h1>\n\t\t\t<p>Hoteles de 2, 3, 4 y 5 estrellas, Hosterías, Posadas y Estancias, y éstos son algunos de los establecimientos hoteleros: </p>"
+      },
+      "srv_mapas": {
+        "html": "<h1 class=\"rojo\">Mapas de Chubut</h1>\n\t\t\t<h4>Principales Rutas y Caminos en la Provincia</h4>\n\t\t\t<img src=\"imagenes/mapas/principales-rutas-caminos.gif\">\n\t\t\t<hr>\n\t\t\t<h4>Area de Concentración Ballena Franca Austral </h4>\n\t\t\t<img src=\"imagenes/mapas/peninsula-ballenas.gif\">\n\t\t\t<hr>\n\t\t\t<h4>Punta Tombo - Cabo Dos Bahías </h4>\n\t\t\t<img src=\"imagenes/mapas/areas-protegidas-cdb-pt.gif\">\n\t\t\t<hr>\n\t\t\t<h4>Costa Atlántica - Zonas de Pesca </h4>\n\t\t\t<img src=\"imagenes/mapas/zona-pesca-atlantica.gif\">\n\t\t\t<hr>\n\t\t\t<h4>Zona de Concentración de la Tonina Overa </h4>\n\t\t\t<img src=\"imagenes/mapas/concentracion-toninas.gif\">\n\t\t\t<hr>\n\t\t\t<h4>Recorridos al Bosque Petrificado de Sarmiento </h4>\n\t\t\t<img src=\"imagenes/mapas/bosque-recorridos.gif\">\n\t\t\t<hr>\n\t\t\t<h4>Comarca del Noreste del Chubut</h4>\n\t\t\t<img src=\"imagenes/mapas/comarca-noreste.gif\">\n\t\t\t<hr>"
+      },
+      "cnt": {
+        "html": "<h1 class=\"verde\">Contacto para Informes</h1>\n\t\t<p>Por favor complete el siguiente formulario y le responderemos a la brevedad.</p>"
+      }
+    }
+  },
+  "english": {
+    "sections": {
+      "idx": {
+        "html": "<h1>The Best Tourist Service... </h1>\n\t\t\t\t<p>Nievemar Tours invites you to know the most outstanding places of the Southern Patagonia, which are declared of national and international interest such as the Peninsula Valdes and Punta Tombo. It is possible to make interesting tours which integrate Trelew, Puerto Madryn, Rawson, Playa Union, Puerto Piramide, Dique Florentino Ameghino, Gaiman the Welsh colony, Glacier Perito Moreno and the most southern city of the world: Ushuaia. </p>\n\t\t\t\t<br>\n\t\t\t\t<h4>Trelew</h4>\n\t\t\t\t<p>Italia 20 - Tel 54-280-4434114 /4435646 - Fax:54-280-4423624</p>\n\t\t\t\t<p>C.P. 9100 Trelew, Argentina.</p>"
+      },
+      "nos": {
+        "html": "<h1 class=\"azul\">Brief Review</h1>\n\t\t\t<p>Nievemar Tours S.R.L. was born in June 1983.  At first it was a family society between Jose Pedro Miranda and Miguel Angel Miranda , then since 1986 it is a limited-liability company.</p>\n\t\t\t<p>From the beginning the agency commercialized air tickets  inside and outside the country . From 1984 it began as a incoming tour operator in this zone, offering a wide range of hotels in Puerto Madryn and Trelew as well as transportation  and excursions to sea lions and elephant seals ´reserves in Peninsula Valdes , the Punta Tombo´s penguin colony , Ameghino Dam, petrified woods, Southern right whales´s watching, etc. At the same year the agency received the certificate as I.A.T.A. travel agency.</p>\n\t\t\t<p>Along the years , the enterprise got vehicles for transporting passengers. Nowadays it has an important fleet of vehicles almost 0 km, all fully equipped. The only two partners of this agency  (father and son) have different roles in the partnership. Miguel, with a four year´s experience in Aerolineas Argentinas, deals the commercial and operative part, while Jose Pedro, who in the past was a representative of brands such as Peugeot, Citroen and Mercedes Benz , gives his experience in the garage owned by this firm. In this garage the maintenance of the vehicles is carried out.</p>\n\t\t\t<p>At the same time,  the two offices situated in Puerto Madryn and Trelew, with bilingual staff and qualified tourist guides, guarantees services of quality and presence.</p>\n\t\t\t<p>In addition,  in 1998 Nievemar Tours S.R.L was chosen by American Express Travel service to be a representative of its interests in the cities and surroundings of Puerto Madryn, Trelew, Rawson, Gaiman, Dolavon and Puerto Piramide. Later in January 2000, American Express Travel Service named Nievemar Tours as its franchised, on may of 2006, for owners´s decision, Nievemar Tours  is released of American Express franchising net. </p>\n\t\t\t<p>In December 2007 the agency received the badge of commitment of tourist quality , associated with the Model Project of Approximation to the quality SCTE Good Practices, granted by the direction of Tourist Quality management of the Secretary of Tourism of Nation.</p>",
+        "titulares": [
+          {
+            "label": "Brief Review",
+            "data": "nos",
+            "icon": "fa fa-info"
+          },
+          {
+            "label": "Our Offices",
+            "data": "nos_oficinas",
+            "icon": "fa fa-building-o"
+          },
+          {
+            "label": "Our Vehicles",
+            "data": "nos_vehiculos",
+            "icon": "fa fa-truck"
+          },
+          {
+            "label": "Maintenance Garage",
+            "data": "nos_talleres",
+            "icon": "fa fa-wrench"
+          }
+        ]
+      },
+      "nos_oficinas": {
+        "html": "<h1 class=\"azul\">Our Offices</h1>\n\t\t\t<p>Nievemar Tours has offices in the cities of Trelew with bilingual staff and tour guides available in almost all languages, offers customers service guarantees, quality and presence.</p>\n\t\t\t<br>\n\t\t\t<div class=\"full\"  style=\"text-align: center;\">\n\t\t\t\t<img src=\"imagenes/trelew.jpg\" /><br>\n\t\t\t\t<pre>Italia 20 - Tel 54-280-4434114 /4435646 - Fax:54-280-4423624. Trelew, Argentina.</pre>\n\t\t\t\t<br>\n\t\t\t</div>"
+      },
+      "nos_vehiculos": {
+        "html": "<h1 class=\"azul\">Our Vehicles</h1>\n\t\t\t<p>Nievemar has passenger transport vehicles. Currently has a large fleet of vehicles with full equipment. Buses 45, 24, 19 and 14 seats, cars and 4x4 vehicles.</p>\n\t\t\t<div class=\"full\"  style=\"text-align: center;\">\n\t\t\t\t<img src=\"imagenes/vehiculos.jpg\" /><br> <img src=\"imagenes/flota_colec.jpg\" />\t<br><img src=\"imagenes/flota_duster.jpg\" />\n\t\t\t</div>"
+      },
+      "nos_talleres": {
+        "html": "<h1 class=\"azul\">Maintenance Garage</h1>\n\t\t\t<p>The company has own workshops to maintain vehicles and plant fuel itself.</p>\n\t\t\t<div class=\"full\"  style=\"text-align: center;\">\n\t\t\t\t<img src=\"imagenes/talleres.jpg\" />\n\t\t\t</div>"
+      },
+      "srv": {
+        "titulares": [
+          {
+            "label": "Tourist Packages",
+            "data": "srv",
+            "icon": "fa fa-gift"
+          },
+          {
+            "label": "Excursions",
+            "data": "srv_excursiones",
+            "icon": "fa fa-globe"
+          },
+          {
+            "label": "Whale-Watching Tours",
+            "data": "srv_avistaje",
+            "icon": "fa fa-camera-retro"
+          },
+          {
+            "label": "Hotels",
+            "data": "srv_hoteles",
+            "icon": "fa fa-hospital-o"
+          },
+          {
+            "label": "Fauna period of Stay",
+            "data": "srv_calendario",
+            "icon": "fa fa-calendar"
+          },
+          {
+            "label": "Maps",
+            "data": "srv_mapas",
+            "icon": "fa fa-map-marker"
+          }
+        ],
+        "intro": "<h1 class=\"rojo\">Tourist Packages</h1>\n\t\t\t<p>Nievemar has a wide range of options in tours. Destinations such as Peninsula Valdes, Puerto Piramide, Caleta Valdés, Bird Island, Puerto Madryn, Punta Tombo, Valle Inferior del Río Chubut Gaiman (Welsh Colony), Playa Unión, Rawson Puerto, Esquel, Parque Nacional Los Alerces, Bariloche, El Calafate, Perito Moreno Glacier, Canal Beagle, Museo del Fin del Mundo, Torres del Paine (Chile), Puerto Natales (Chile), Mount Fitz Roy, El Chalten, Lago Viedma ... </p>\n\t\t\t<p>Hotels 2, 3 and 4 stars, Inns, Inns and Stays. Accommodation transfers, breakfasts, Whale Watching, Orcas, Dolphins, dolphins, tours, elephant seals, sea lions, penguins, Walks ... </p>",
+        "paquetes": [
+          {
+            "id": "1",
+            "titulo": "Península Valdés #1",
+            "html": "<li>2 Nights accommodation at selected hotel with breakfast </li>\n\t\t\t\t\t\t<li>Arrival and departure transfer </li>\n\t\t\t\t\t\t<li>Full day excursion to Peninsula Valdés</li>"
+          },
+          {
+            "id": "1",
+            "titulo": "Península Valdés #2",
+            "html": "<li>3 Nights accommodation at selected hotel with breakfast </li>\n\t\t\t\t\t\t<li>Arrival and departure transfer </li>\n\t\t\t\t\t\t<li>Full day excursion to Peninsula Valdes </li>\n\t\t\t\t\t\t<li>Excursion to Punta Tombo penguin`s  rockery</li>"
+          },
+          {
+            "id": "1",
+            "titulo": "Península Valdés #3",
+            "html": "<li>3 Nights accommodation at selected hotel with breakfast, transfers in and out </li>\n\t\t\t\t\t\t<li>Full day excursion to Peninsula Valdes </li>\n\t\t\t\t\t\t<li>Full-day excursion to Punta Tombo and Welsh colony</li>"
+          },
+          {
+            "id": "4",
+            "titulo": "Ornithologists in Patagonia",
+            "html": "<h4>Day 1: Viedma</h4>\n\t\t\t\t\t\t<p>Arrival to Viedma airport and transfer to hotel. Dinner.</p>\n\t\t\t\t\t\t<h4>Day 2: Viedma</h4>\n\t\t\t\t\t\t<p>Early in the morning departure to \"Cove of the Parrots\", which is the biggest colony of burrowing parrots in the world ( Cyanoliseus patagonus). In the journey we can also watch some species of \"inambu petiso\" ( Nothura darwinii) and Argentinian partridges (Eudromia Elegans), as well as several paseriforms  and greedy birds.</p>\n\t\t\t\t\t\t<h4>Day 3: Viedma, San Antonio Oeste, Peninsula Valdes</h4>\n\t\t\t\t\t\t<p>Departure from Viedma with several stops in the way to observe species such as yellow cardinal (Gubernatrix cristata) or the \"sobrepuesto\" (Lessonia rufa). Lodging in hotel or ranch in Peninsula Valdes.</p>\n\t\t\t\t\t\t<h4>Day 4: Peninsula Valdes</h4>\n\t\t\t\t\t\t<p>Day to visitthe area of Peninsula. We will be able  to watch a wide variety of birds of different typical families of Patagonian steppe such as the Patagonian baket marker bird (Asthenes patagonica), and sea birds such as Giant Petrel (Macronectes giganteus) or cormorant of the rocks (Phalacrocorax magellanicus)</p>\n\t\t\t\t\t\t<h4>Day 5:  Peninsula Valdes. Chubut's River Valley</h4>\n\t\t\t\t\t\t<p>Departure from the hotel or ranch southwards, we will arrive to Chubut River`s valley, where we will enjoy views of at least 20 different aquatic birds in the Ornithologist`s lagoon, nearby the city of Trelew. Lodging in Gaiman (farm or inn).</p>\n\t\t\t\t\t\t<h4>Day 6: Gaiman</h4>\n\t\t\t\t\t\t<p>Departure towards Florentino Ameghino's Dam. During the journey we will see  different species, inhabitants of the Patagonian plateau. Finally l we will reach the cannon of the dam and its stone`s walls, ideal places for greedy birds.</p>\n\t\t\t\t\t\t<h4>Day 7:  Gaiman - Punta Tombo - Airport</h4>\n\t\t\t\t\t\t<p>Departure to Punta Tombo, which is the biggest continental Magellanic penguins`s colony ( Spheniscus magellanicus) in the world. In the afternoon transfer to airport.</p>"
+          },
+          {
+            "id": "6",
+            "titulo": "Posada Los Mimbres - Lower Valley",
+            "html": "<h4>Day 1:</h4><p>Reception at airport and transfer to hotel in Puerto Madryn and Trelew. Accommodation.</p>\n\t\t\t\t\t\t<h4>Day 2:</h4><p>Breakfast. Full-day excursion to Peninsula Valdes which visits Puerto Piramides (optional whale- watching tour) and elephant`s seals reserve in Punta Norte or Caleta Valdes . In the afternoon return to hotel. </p>\n\t\t\t\t\t\t<h4>Day 3:</h4><p>Breakfast. Half- day excursion to Punta Tombo penguin`s rockery. In the afternoon transfer to Gaiman ( Welsh colony) and lodging at Posada Los Mimbres situated in a farm area. Afternoon free for leisure activities.</p>\n\t\t\t\t\t\t<h4>Day 4:</h4><p>Breakfast. In the morning time at leisure to enjoy farm activities. Transfer to airport.</p>"
+          },
+          {
+            "id": "7",
+            "titulo": "Península Valdés - Welsh colony",
+            "html": "<h4>Day 1:</h4><p>Reception at Trelew Airport and transfer to chosen hotel. Lodging</p>\n\t\t\t\t\t\t<h4>Day 2:</h4><p>Breakfast. Transfer to Peninsula Valdes, the points visited are The Ameghino Isthmus and Puerto Piramide (optional whale-watching tour can be made here). In the afternoon lodging in Estancia Rincon Chico or La Elvira.</p>\n\t\t\t\t\t\t<h4>Day 3:</h4><p>Breakfast. In the morning time at leisure to enjoy the fieldwork. In the afternoon excursion to Caleta Valdes elephant `seals reserve and return to Puerto Madryn. Lodging at hotel.</p>\n\t\t\t\t\t\t<h4>Day 4:</h4><p>Breakfast. Excursion to Punta Tombo penguin's rockery and Gaiman. Lodging at Posada Los Mimbres (optional hiking or farm activities). </p>\n\t\t\t\t\t\t<h4>Day 5:</h4><p>Breakfast. Time at leisure until transfer to Trelew airport.</p>"
+          },
+          {
+            "id": "8",
+            "titulo": "Ranchs of Península Valdés",
+            "html": "<h4>Día 1:</h4><p>Reception in Trelew Airport and transfer to selected hotel. Accommodation. </p>\n\t\t\t\t\t\t<h4>Día 2:</h4><p>Breakfast. Transfer to the Valdes Peninsula, visiting the Ameghino Isthmus, Isle of Dogs and Pto Pyramid (optional navegacion whales). In the afternoon, transfer to and accommodation in Punta Delgada Estancia Rincon Chico. Dinner included. </p>\n\t\t\t\t\t\t<h4>Día 3:</h4><p>Desayuno.mańana free for fieldwork. In the afternoon excursion to Caleta Valdés elefanteria Navy, moved to Punta Norte and accommodations at Estancia La Elvira. Dinner included. </p>\n\t\t\t\t\t\t<h4>Día 4:</h4><p>Breakfast. Excursion fauna, afternoon transfer to Puerto Madryn. Accommodation in hotel.</p>\n\t\t\t\t\t\t<h4>Día 5:</h4><p>Breakfast. Transfer to Trelew airport.</p>"
+          },
+          {
+            "id": "9",
+            "titulo": "Colonia Galesa",
+            "html": "<h4>Día 1:</h4><p>Reception at airport and transfer to the chosen hotel. </p>\n\t\t\t\t\t\t<h4>Día 2:</h4><p>Breakfast.full- day tour to Península Valdés, visiting Istmo Ameghino, Isla de los Pájaros, Puerto Pirámide (optional whale- watching tour ), the elephants `seal reserve of Caleta Valdés</p>\n\t\t\t\t\t\t<h4>Día 3:</h4><p>Breakfast. Full- day excursion to Punta Tombo, which visit this penguins`rockey and then Gaiman (welsh colony ), city tour and lodging at Gwesty Tywi b & b.</p>\n\t\t\t\t\t\t<h4>Día 4:</h4><p>Breakfast. Free day to visit the Bryn Gwyn Paleonthological Park or visit the old chapels of the valley. </p>\n\t\t\t\t\t\t<h4>Día 5:</h4><p>Breakfast. Transfer to airport.</p>"
+          },
+          {
+            "id": "15",
+            "titulo": "Bahía Bustamante",
+            "html": "<h4>Day 1:</h4><p>Reception at Trelew Airport and transportation to Bahia Bustamante. This is a small town, settled by the algae´s industry and the one in the world. It is situated on the Northern part of the San Jorge Gulf, at  250 km from Trelew Airport. Logding  for two nights in 2 bedroom houses, completely equipped.</p>\n\t\t\t\t\t\t<h4>Day 2:</h4><p>During the stay it is possible to make excursions to see sea lions, penguins and the whole fauna of this area. It is also included a boat trip through Caleta Malaspina to watch the different sea birds. A petrified wood can be also visited. Other activities offered are coast fishing and mountain bike.</p>\n\t\t\t\t\t\t<h4>Day 3:</h4><p>Transportation to Trelew Airport</p>"
+          },
+          {
+            "id": "16",
+            "titulo": "El Pedral",
+            "html": "<h4>Day 1:</h4><p>Reception at Trelew Aiport and transportation to the ranch El Pedral, very close to Punta Ninfas,  in the Southern part of the Golfo Nuevo, at 100 km from Trelew Aiport. Lodging for two nights , half -board included, at the lodge in double rooms with private bathroom. The half- board includes, besides meals, the drinks and a snack.</p>\n\t\t\t\t\t\t<h4>Day 2:</h4><p>During the stay, it is possible to make a excursion to see sea lions and the whole seabird fauna. Other activities included are coast ­ fishing, boat fishing, water ski, mountain bike, trekking, etc.</p>\n\t\t\t\t\t\t<h4>Day 3:</h4><p>Transporation to Trelew Aiport</p>"
+          },
+          {
+            "id": "17",
+            "titulo": "Route 40 Program",
+            "html": "<h4>Day 1:</h4><p> Departure from Puerto Madryn or Trelew, to the Pinguinera de Punta Tombo and continuation of the trip to Comodoro Rivadavia, or Reception at Comodoro Rivadavia Airport and transfer to the Hotel. (1ngt)</p>\n\t\t\t\t\t\t<h4>Day 2:</h4><p> Departure from Comodoro Rivadavia, visiting the Sarmiento petrified forest very close to the town of Sarmiento, continuing by route 40 to Perito Moreno and lodging in the village of Los Antiguos. (1ngt)</p>\n\t\t\t\t\t\t<h4>Day 3.</h4><p> Departure by route 41 to Posadas Lake, with beautiful views of the Jainemeni and Zeballos rivers and the imposing Cerro San Lorenzo, arrival and lodging. (1ngt)</p>\n\t\t\t\t\t\t<h4>Day 4:</h4><p> Departure to route 40 and visit the Canyon of the Pinturas River and the Cuevas de las Manos, a UNESCO World Heritage Site. Arrival to La Angostura estancia and lodging. (1 ngt)</p>\n\t\t\t\t\t\t<h4>Day 5:</h4><p> Departure by route 40, bordering Lake Cardiel, arriving at El Chanten and transfer to the hotel. (1ngt)</p>\n\t\t\t\t\t\t<h4>Day 6:</h4><p> Departure to El Calafate, bordering Lake Viedma, and arrival at the hotel</p>\n\t\t\t\t\t\t<pre>Note: Day 3, by route 41, will depend on the state of the route, if it is impassable, the route is made by route 40, visiting Cuevas de las Manos, and leaving the Oro Río Gorge for day 4.</pre>\n\t\t\t\t\t\t<p>Private services with Spanish guide driver, does not include tickets to wildlife reserves and parks.</p>\n\t\t\t\t\t\t<h4>Hotels</h4>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>Comodoro Rivadavia: Hotel Austral</li>\n\t\t\t\t\t\t\t<li>Los Antiguos: Hostería Antigua Patagonia</li>\n\t\t\t\t\t\t\t<li>Lago Posadas: Hostería La Posada del Posadas</li>\n\t\t\t\t\t\t\t<li>Gobernador Gregores: Estancia la Angostura</li>\n\t\t\t\t\t\t\t<li>El Chaltén: Hostería Casa de Piedra</li>\n\t\t\t\t\t\t</ul>"
+          },
+          {
+            "id": "18",
+            "titulo": "Route 3 South Program",
+            "html": "<h4>Day 1:</h4><p>Departure from Puerto Madryn or Trelew, to the Pinguinera de Punta Tombo and continuation of the trip to Comodoro Rivadavia, or Reception at Comodoro Rivadavia Airport and transfer to the Hotel. (1ngt)</p>\n\t\t\t\t\t\t<h4>Day 2:</h4><p>Departure to Puerto Deseado and overnight at Hotel (1 ngt). Optional afternoon navigation through the Ría Deseado.</p></p>\n\t\t\t\t\t\t<h4>Day 3:</h4><p>Departure to Petrificado Jaramillo forest, continuing to Puerto San Julián. Accommodation (1 ngt).</p>\n\t\t\t\t\t\t<h4>Day 4:</h4><p>Departure to the National Park Monte León, visit to the penguin colony and marine lobería. Lodging at Estancia Monte León or Isla Pavón.</p>\n\t\t\t\t\t\t<h4>Day 5:</h4><p>Departure to El Calafate.</p>\n\t\t\t\t\t\t<pre>Private services with Spanish guide driver, does not include tickets to wildlife reserves and parks.</pre>\n\t\t\t\t\t\t\t<h4>Hoteles</h4>\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t<li>Comodoro Rivadavia: Hotel Austral</li>\n\t\t\t\t\t\t\t\t<li>Puerto Deseado: Hotel Los Acantilados</li>\n\t\t\t\t\t\t\t\t<li>Bahía San Julian: Hotel Bahia</li>\n\t\t\t\t\t\t\t\t<li>Monte León o Isla Pavón</li>\n\t\t\t\t\t\t\t</ul>"
+          }
+        ]
+      },
+      "srv_avistaje": {
+        "html": "<h1 class=\"rojo\">WATCHING FAUNA</h1>\n\t\t\t\t<h4>WHALES</h4>\n\t\t\t\t<p>Whale- watching tours leave from Puerto Piramides , in Peninsula Valdes, in ships of no more than 50 passengers. Life jackets and capes ae provides. The whale-watching tour takes between 1 hour and a half and 2 hours. This depends on the distance where the whales are situated.</p>\n\t\t\t\t<h4>TONINAS</h4>\n\t\t\t\t<p>Toninas watching - tour leaves from Puerto Rawson. Lifejackets are provided. This tour takes no more than 01 hour.</p>"
+      },
+      "srv_excursiones": {
+        "html": "<div id=\"showhide\">\n<h1><i class=\"fa fa-arrows-alt\"></i> Tabla Excursiones</h1>\n<div>\n<p>\n<table width=\"100%\" border=\"0\">\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>EXCURSION </p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>DESDE: </p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>SALE </p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>REGRESA</p></td>\n  </tr>\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>A Península Valdés</p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>Trelew </p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>7:15 hs.</p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>20:00 hs.</p></td>\n  </tr>\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>&nbsp;</p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>8:30 hs.</p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>19:00 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>A Punta Tombo</p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>Puerto Madryn </p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>8:00 hs.</p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>18:30 hs.</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn </p></td>\n    <td class=\"cpo\"><p>8:00 hs.</p></td>\n    <td class=\"cpo\"><p>15:30 hs. Apto. Trelew</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>9:15 hs. </p></td>\n    <td class=\"cpo\"><p>15:30 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Colonia Galesa</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>14:30 hs.</p></td>\n    <td class=\"cpo\"><p>19:00 hs.</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>13:30 hs.</p></td>\n    <td class=\"cpo\"><p>20:00 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>Bosque Petrificado con Dique Ameghino</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>8:00 hs.</p></td>\n    <td class=\"cpo\"><p>17:30 hs.</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>9:00 hs.</p></td>\n    <td class=\"cpo\"><p>16:30 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Península Valdés con Pernocte</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>7:15 hs.</p></td>\n    <td class=\"cpo\"><p>20:00 hs. (día Sig.)</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>8:30 hs.</p></td>\n    <td class=\"cpo\"><p>19:00 hs. (día Sig.)</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Navegación Tonina Overa (Delfin)</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>Consultar Mareas</p></td>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>Consultar Mareas</p></td>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Punta Ninfas</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>8:30hs</p></td>\n    <td class=\"cpo\"><p>17:00hs</p></td>\n  </tr>\n  <tr>\n    <td colspan=\"4\" valign=\"top\"><p><em>Navegación de avistaje de Ballenas Franca , desde Puerto Pirámides, sale cuando arriba la excursión.</em></p></td>\n  </tr>\n</table>\n</p>\n</div>\n</div>"
+      },
+      "srv_hoteles": {
+        "html": "<h1 class=\"rojo\">Hotels</h1>\n\t\t\t\t<p>Hotels of 2, 3, 4 & 5 stars, Hosterías, Posadas & Estancias, etc.:</p>\n\t\t\t\t<p>Pick a zone</p>"
+      },
+      "srv_calendario": {
+        "html": "<h1 class=\"rojo\">Fauna Period of stay. </h1>\n\t\t\t\t<p>This table shows the main animals which are in the reserves of Punta Tombo and Península Valdes and it is a source of reference for the travel agent, in order to commercialize and offer better services.</p>\n\t\t\t\t<img src=\"imagenes/calendario.gif\" />\n\t\t\t\t<h4>Permanent Fauna</h4>\n\t\t\t\t<p>American ostriches (ńandú), Patagonian hare (maras), Hares, Martinetah, Foxes(zorros), Skunk (zorrinos), and a wide diversity of birds. </p>\n\t\t\t\t<img src=\"imagenes/faunaestable.jpg\" />"
+      },
+      "srv_mapas": {
+        "html": "<h1 class=\"rojo\">Maps of the Province of Chubut</h1>\n\t\t\t\t<h4>Main routes and roads in the province</h4>\n\t\t\t\t<img src=\"imagenes/mapas/principales-rutas-caminos.gif\" />\n\t\t\t\t<hr>\n\t\t\t\t<h4>Southern-right whales area</h4>\n\t\t\t\t<img src=\"imagenes/mapas/peninsula-ballenas.gif\" />\n\t\t\t\t<hr>\n\t\t\t\t<h4>Punta Tombo - Cabo Dos Bahías </h4>\n\t\t\t\t<img src=\"imagenes/mapas/areas-protegidas-cdb-pt.gif\" />\n\t\t\t\t<hr>\n\t\t\t\t<h4>Atlantic Coast - Fishing Zones</h4>\n\t\t\t\t<img src=\"imagenes/mapas/zona-pesca-atlantica.gif\" />\n\t\t\t\t<hr>\n\t\t\t\t<h4>Itineraries for visiting Sarmiento Petripied wood</h4>\n\t\t\t\t<img src=\"imagenes/mapas/bosque-recorridos.gif\" />\n\t\t\t\t<hr>\n\t\t\t\t<h4>Area of the northeast of Chubut</h4>\n\t\t\t\t<img src=\"imagenes/mapas/comarca-noreste.gif\" />"
+      },
+      "cnt": {
+        "html": "<h1 class=\"verde\">Contact Reports</h1>\n\t\t\t<p>Please complete the form below and we will respond as soon as possible.</p>"
+      }
+    }
+  },
+  "francais": {
+    "sections": {
+      "idx": {
+        "html": "<h1>Les Meilleurs services Touristiques...</h1>\n\t\t\t<p>La compagnie NieveMar Tours s.r.l. vous invite ŕ découvrir les plus incroyables endroits du sud de la Patagonie qui ont été déclarés d'intéręt national et international: La Péninsule Valdés, Punta Tombo, etc. Ils nous permettent de faire des excursions locales intéressantes en passant par Trelew, Puerto Madryn, Rawson, Playa Union, Puerto Piramides , le barrage Florentin Ameghino, la colonie galoise de Gaiman, le glacier Perito Moreno et la ville la plus au sud du monde: Ushuaia.</p> <br> <h4>Trelew</h4> <p>Italia 20 - Tel 54-280-4434114 /4435646 - Fax:54-280-4423624</p> <p>C.P. 9100 Trelew, Argentina.</p>"
+      },
+      "nos": {
+        "html": "<h1 class=\"azul\">Petit historique sur la compagnie </h1>\n\t\t\t<p>NieveMar Tours s.r.l. est née en juin 1983, premičrement comme société de fait avec José Pedro Miranda et Miguel Angel Miranda en 1986 jusqu'ŕ aujourd'hui comme s.r.l. </p>\n\t\t\t<p>Depuis le début, l'agence a vendu des billets d'avion et des excursions en Argentine et ŕ l'extérieur. En 1984, l'agence a commence comme opératrice de tourisme en recevant et en organisant les tours dans cette zone de la province du CHUBUT. </p>\n\t\t\t<p>Nous avons offert une liste de destinations touristiques incluant Puerto Madryn et Trelew, le transport et les excursions aux zones ou se trouvent les lions et les éléphants de mer , mais aussi ŕ la réserve de pingouins de Punta Tombo. Nous allons aussi au barrage Ameghuino, nous passons par les foręts pétrifiées et nous faisons une mini croisičre en mer pour observer les baleines, les dauphins et bien d'autres animaux marins .</p>\n\t\t\t<p>Aussi pendant l'année 1984 , nous avons reçu le certificat comme agence membre de l' I.A.T.A. Au fil des années, notre entreprise a acquis des véhicules de transport de passagers, avec une importante flotte de véhicules neufs avec tout le confort intérieur. Les uniques propriétaires de l'agence, Miguel et José-Pedro, ont des fonctions différentes au sein de l'entreprise. Miguel, avec ses quatre ans d'expérience dans le domaine du tourisme, s'occupe de la partie commerciale et opérative. José-Pedro , quand ŕ lui, représentait les marques Peugeot, Citroën et Mercedes-Benz ŕ ses débuts. Il apporte aujourd'hui son expérience principalement ŕ l'atelier de mécanique ou ce font toutes les réparations et les entretiens aux véhicules de la compagnie.(depuis la peinture jusqu'ŕ la mécanique générale.) En plus , avec ses deux agences a Puerto Madryn, l'une pour les opérations commerciales et l'autre pour l'attention au public , le personnel bilingue et les guides touristiques habilites dans presque toutes les langues principales , offrent aux clients le meilleur service, la qualité et un accompagnement incomparable . </p>\n\t\t\t<p>Aussi, pendant l'année 1998, la compagnie NieveMar Tours s.r.l. a été choisie par la société \"American Express\" pour représenter ses intéręts dans les villes et les zones influentes de Puerto Madryn, Gaiman, Dolavon et Puerto Piramide. </p>\n\t\t\t<p>Ensuite, en Janvier de l'année 2000, la société \"American Express travel service\" a continue a été partenaire de notre entreprise jusqu'en mai de l'année 2006, date a la quelle nos associes ont décidés de nous séparer de la chaîne des franchises du męme noms. </p>\n\t\t\t<p>Au mois de Décembre, on a reçu la distinction du Compromis de la Qualité Touristique Argentine, associé au projeto de modčle de l´approche a`la qualité SCTE des bonne pratiques , octroyé par la Direction de la Gestion de la Qualité Touristique de la Secrétairerie de tourisme de la Nation.</p>",
+        "titulares": [
+          {
+            "label": "Histoire",
+            "data": "nos",
+            "icon": "fa fa-info"
+          },
+          {
+            "label": "Nos Bureaux",
+            "data": "nos_oficinas",
+            "icon": "fa fa-building-o"
+          },
+          {
+            "label": "Nos véhicules",
+            "data": "nos_vehiculos",
+            "icon": "fa fa-truck"
+          },
+          {
+            "label": "Maintenance Garage",
+            "data": "nos_talleres",
+            "icon": "fa fa-wrench"
+          }
+        ]
+      },
+      "nos_oficinas": {
+        "html": "<h1 class=\"azul\">Nos Bureaux</h1>\n\t\t\t<p>Nievemar Tours a des bureaux dans les villes de Trelew et Puerto Madryn avec du personnel bilingue et les guides touristiques disponibles dans presque toutes les langues, offre aux clients des garanties de service, de qualité et de présence.</p>\n\t\t\t<br>\n\t\t\t<div class=\"full\"  style=\"text-align: center;\">\n\t\t\t\t<img src=\"imagenes/trelew.jpg\" /><br>\n\t\t\t\t<pre>Italia 20 - Tel 54-280-4434114 /4435646 - Fax:54-280-4423624. Trelew, Argentina.</pre>\n\t\t\t\t<br>\n\t\t\t</div>"
+      },
+      "nos_vehiculos": {
+        "html": "<h1 class=\"azul\">Nos véhicules</h1>\n\t\t\t<p>Vous Nievemar de transport de passagers de véhicules. Actuellement, a une grande flotte de véhicules avec équipement complet. Bus 45, 24, 19 et 14 sičges, des voitures et des véhicules 4x4.</p>\n\t\t\t<div class=\"full\"  style=\"text-align: center;\">\n\t\t\t<img src=\"imagenes/vehiculos.jpg\" /><br> <img src=\"imagenes/flota_colec.jpg\" />\t<br><img src=\"imagenes/flota_duster.jpg\" />\n\t\t\t</div>"
+      },
+      "nos_talleres": {
+        "html": "<h1 class=\"azul\">Maintenance Garage</h1>\n\t\t\t<p>L'entreprise a ses propres ateliers pour l'entretien des véhicules et installations de carburant lui-męme.</p>\n\t\t\t<div class=\"full\"  style=\"text-align: center;\">\n\t\t\t\t<img src=\"imagenes/talleres.jpg\" />\n\t\t\t</div>"
+      },
+      "srv": {
+        "titulares": [
+          {
+            "label": "Forfaits Touristiques",
+            "data": "srv",
+            "icon": "fa fa-gift"
+          },
+          {
+            "label": "Excursions",
+            "data": "srv_excursiones",
+            "icon": "fa fa-globe"
+          },
+          {
+            "label": "Observation des baleines",
+            "data": "srv_avistaje",
+            "icon": "fa fa-camera-retro"
+          },
+          {
+            "label": "Hôtels",
+            "data": "srv_hoteles",
+            "icon": "fa fa-hospital-o"
+          },
+          {
+            "label": "La Faune La durée de permanence",
+            "data": "srv_calendario",
+            "icon": "fa fa-calendar"
+          },
+          {
+            "label": "Les Carteles de la Province du Chubut",
+            "data": "srv_mapas",
+            "icon": "fa fa-map-marker"
+          }
+        ],
+        "intro": "<h1 class=\"rojo\">Forfaits touristiques</h1>\n\t\t\t\t<p>La Péninsule Valdés, Puerto Pirámide, la Crique Valdés, l'Ile aux Oiseaux (\"Isla de los Pájaros\"), Rawson, le Parc National \"Los Alerces\", Bariloche, El Calafate, le Glacier Perito Moreno, Ushuaia, le Parc Nacional de la Terre de Feu, le Canal de Beagle, le Musée de la Fin du Monde, le Parc Nacional \"Torres del Paine\" au Chili, Puerto Natales, le Mont Fitz-Roy, El Chanten, le Lac Viedma, etc... </p>\n\t\t\t\t<ul>\n\t\t\t\t<li><p>Hôtels de deux, trois et quatre étoiles, auberges et fermes typiquement sud-américaines </li>\n\t\t\t\t<li><p>Transport et logement -Observation des baleines, des orques, des dauphins communs et des dauphins de Commerson et de bien d'autres animaux marins. Pour cela, nous utiliserons des bateaux modernes spécialement dessines a cette fin. </p></li>\n\t\t\t\t<li><p>Des excursions aux endroits oů se trouvent les lions de mer et les éléphants de mer ainsi que de trčs agréables marches ŕ pied revigorantes le long des sentiers côtiers et bien plus.</p></li>\n\t\t\t\t</ul>",
+        "paquetes": [
+          {
+            "id": "1",
+            "titulo": "Península Valdés #1",
+            "html": "<li>Deux nuits de Logement dans l'hotel choisí, avec le Petit déjeuner. Transfer ŕ l'arrivée et au départ.</li>\n\t\t\t\t\t\t\t<li>Excursion d' un jour entier ŕ la Péninsule Valdés </li>"
+          },
+          {
+            "id": "1",
+            "titulo": "Península Valdés #2",
+            "html": "<li>Trois nuits de Logement dans L' hotel choisí, avec le Petit déjeuner. Transfer ŕ L´arrivée et au départ. Excursion d´un jour entier ŕ La Péninsule Valdés.</li>\n\t\t\t\t\t\t\t<li>Excursion d´une Demie Journée ŕ la Réserve de Pingouins de Punta Tombo. </li>"
+          },
+          {
+            "id": "1",
+            "titulo": "Península Valdés #3",
+            "html": "<li>Trois nuits de logement dans l´hotel choisi, avec Le Pétit Déjeuner.</li>\n\t\t\t\t\t\t\t<li>Transfer ŕ L' arrivée et au Départ.</li>\n\t\t\t\t\t\t\t<li>Excursion d´un jour entier ŕ La Péninsule Valdés.</li>\n\t\t\t\t\t\t\t<li>Excursion d´un Jour entier ŕ la Réserve de Pingouins de Punta Tombo et ŕ La Colonie Galoise </li>"
+          },
+          {
+            "id": "4",
+            "titulo": "Ornitólogos en Patagonia",
+            "html": "<h4>Jour 1 Viedma</h4><p>Arrivée à l'aéroport de Viedma, transfert au dîner à l'hôtel.</p>\n\t\t\t\t\t\t\t<h4>Jour 2 Viedma</h4><p>Départ tôt le matin en direction de la \"Caleta de los Loros\", la plus grande concentration de perroquets Racer au monde (Cyanoliseus patagonus) le long du chemin. Nous pouvons voir des exemples d'Inambú Petiso (Nothura darwinii) et de Martinetas (Eudromia Elegans), ainsi que plusieurs passereaux et rapaces. </p>\n\t\t\t\t\t\t\t<h4>Jour 3 Viedma - San Antonio Oeste - Península Valdés</h4><p> Transfert terrestre avec plusieurs arrêts pour observer des espèces telles que le Cardinal jaune (Gubernatrix cristata) ou le Overlapped (Lessonia rufa). Hébergement à l’hôtel ou séjour dans la péninsule de Valdés. </p>\n\t\t\t\t\t\t\t<h4>Jour 4 Péninsule Valdés</h4><p>Journée consacrée à la visite de la péninsule en observant une variété de passereaux appartenant à différentes familles typiques de la steppe patagonienne, tels que le Canastero (Asthenes patagónica) et le lagon rocheux (Phalacrocorax magellanicus). </p>\n\t\t\t\t\t\t\t<h4>Jour 5 Péninsule Valdés - Vallée de Chubut</h4><p> En partant de l'hôtel ou du parcours de l'Estancia vers le sud, nous arrivons dans la vallée de Chubut, où nous apprécierons l'identification d'au moins 20 aquatiques différents dans les Lagunas del Ornitólogo, à proximité de Trelew. Hébergement à Gaiman (ferme ou auberge). </p>\n\t\t\t\t\t\t\t<h4>Jour 6 Gaiman </h4><p>Départ pour la digue Florentino Ameghino, observant différentes espèces des plateaux de Patagonie jusqu’à atteindre le canyon de la digue et ses parois rocheuses idéales pour observer les rapaces et les charognards. </p>\n\t\t\t\t\t\t\t<h4>Jour 7 Gaiman - Punta Tombo - Aéroport </h4><p>Départ pour Punta Tombo, la plus grande réserve de manchots de Magellan (Spheniscus magellanicus) au monde. Dans l'après-midi, transfert à l'aéroport. </p>"
+          },
+          {
+            "id": "6",
+            "titulo": "Posada Los Mimbres - Colonia Galesa",
+            "html": "<h4>Premier Jour:</h4>\n\t\t\t\t\t\t\t<p>Réception ŕ L' aéroport et transfer ŕ L' Hotel choisi etdans La Ville de Puerto Madryn ou de Trelew. Logement.</p>\n\t\t\t\t\t\t\t<h4>Deuxičme Jour:</h4>\n\t\t\t\t\t\t\t<p>Petit d´jeuner. Excursion d´un jour entier ŕ La Péninsule Valdés.</p>\n\t\t\t\t\t\t\t<p>Nous visiterons Puerto Piramide (en option: Promenade en bateau pour voir Les Baleines) et la Rčserve des éléphants de mer de \"Caleta Valdés\" ou de Punta Norte.</p>\n\t\t\t\t\t\t\t<p>Dans l'aprčs-midi nous retournerons ŕ L' hotel.</p>\n\t\t\t\t\t\t\t<h4>Troisiéme Jour:</h4>\n\t\t\t\t\t\t\t<p>Petit déjeuner. Excursion d' une Demie - Journée ŕ la Réserve de Pingouins de Punta Tombo. </p>\n\t\t\t\t\t\t\t<p>Dans L' aprčs-midi transfer ŕ Gaiman (Colonie Galoise) et Logement ŕ La Ferme - Auberge \"Les Mimbres\".</p>\n\t\t\t\t\t\t\t<p>Aprčs - midi Libre.</p>\n\t\t\t\t\t\t\t<h4>Quatričme Jour:</h4>\n\t\t\t\t\t\t\t<p>Petit déjeuner: Le matín est libre pour réaliser des activités de la ferme.</p>\n\t\t\t\t\t\t\t<p>Transfer ŕ L' aéroport.</p>"
+          },
+          {
+            "id": "7",
+            "titulo": "Península Valdés - Colonia Galesa",
+            "html": "<h4>Premier Jour:</h4>\n\t\t\t\t\t\t\t<p>Réception ŕ L' aéroport de Trelew et Transfer ŕ L' hotel choisí. Logement.</p>\n\t\t\t\t\t\t\t<h4>Deuxičme Jour:</h4>\n\t\t\t\t\t\t\t<p>Petit déjeuner; Transfer ŕ la Péninsule Valdés, nous visiterons L' istmo Ameghino; La Isla de los Pájaros et Puerto Piramide (en option: promenade en bateau pour voir les Baleines - Dans L' aprčs-midi Logement ŕ la \"Estancia Rincón Chico ou La Elvira\".</p>\n\t\t\t\t\t\t\t<h4>Troisičme Jour:</h4>\n\t\t\t\t\t\t\t<p>Petit Déjeuner ; Matinée Libre pour réaliser des activités des champs.</p>\n\t\t\t\t\t\t\t<p>Dans L' aprčs - midi excursion ŕ La Réserve des éléphants de mer de Caleta Valdés et ensuite retour ŕ Puerto Madryn ou ŕ Trelew.</p>\n\t\t\t\t\t\t\t<p>Logement ŕ L' hotel choisí.</p>\n\t\t\t\t\t\t\t<h4>Quatriéme Jour:</h4>\n\t\t\t\t\t\t\t<p>Petit déjeuner; excursion ŕ La Réserve de Pingouins de Punta Tombo et ŕ Gaiman. Logement ŕ L' auberge \" Los Mimbres\". (option; Randonnée ou Trauaux de la Ferme).</p>\n\t\t\t\t\t\t\t<h4>Cinquieme Jour:</h4>\n\t\t\t\t\t\t\t<p>Petit déjeuner. Temps libre. </p>\n\t\t\t\t\t\t\t<p>Transfer ŕ L' aéroport de Trelew.</p>"
+          },
+          {
+            "id": "8",
+            "titulo": "Estancias de Península Valdés",
+            "html": "<h4>Premier Jour:</h4>\n\t\t\t\t\t\t\t<p>Réception ŕ L' aéroport de Trelew et Transfer ŕ L' Hotel choisí. Logement.</p>\n\t\t\t\t\t\t\t<h4>Deuxičme Jour: </h4>\n\t\t\t\t\t\t\t<p>Petit déjeuner ; Transfer ŕ La Péninsule Valdés, nous visiterons L' istmo Ameghino, La Isla de los Pájaros et Puerto Piramide (en option: mini - croisičre pour voir les Baleines).</p>\n\t\t\t\t\t\t\t<p>Dans L' aprčs - midí , transfer ŕ Punta Delgada et Logement ŕ L' auberge \"Estancia Rincón Chico\". Le diner est inclus</p>\n\t\t\t\t\t\t\t<h4>Troisičme Jour:</h4>\n\t\t\t\t\t\t\t<p>Petit déjeuner. Matinée Libre pour réaliser des activités des champs. Dans Láprčs - midi Excursion ŕ la Réserve des éléphants de mer de Caleta Valdés, transfer ŕ Punta Norte et Logement ŕ L´auberge \"Estancia La Elvira\". Le diner est inclus.</p>\n\t\t\t\t\t\t\t<h4>Quatričme Jour:</h4>\n\t\t\t\t\t\t\t<p>Petit déjeuner. Excursion Pour voir La Faune. Dans L' aprčs - midi; transfer ŕ Puerto Madryn. Logement ŕ L' Hotel choisi.</p>\n\t\t\t\t\t\t\t<h4>Cinquičme Jour:</h4>\n\t\t\t\t\t\t\t<p>Petit Déjeuner, Transfer ŕ L' aéroport de Trelew</p>"
+          },
+          {
+            "id": "9",
+            "titulo": "La Colonie Galoise",
+            "html": "<h4>Premier Jour:</h4><p>Réception ŕ L'aéroport de Trelew. Et transfer ŕ L'hotel choisí. Logement.</p>\n\t\t\t\t\t\t\t<h4>Deuxičme Jour:</h4><p>Petit déjeuner, excursion de un jour entier ŕ La Péninsule Valdés. Nous visterons Puerto Piramide (en option ; promenade en bateau pour voir les baleines). Et La Réserve des éléphants de mer de Caleta Valdés ou Punta Norrte.</p>\n\t\t\t\t\t\t\t<h4>Troisičme Jour:</h4><p>Petit déjeuner, excrusion d´un jour entier ŕ la Réserve de Pingouins de Punta Tombo et Gaiman (Colonie Galoise), un tour de cette Petite ville et le Logement ŕ L´auberge \"Gwesty Tywi\". Reconstruite dans une vieille maison de Style Galois.</p>\n\t\t\t\t\t\t\t<h4>Quatričme Jour:</h4><p>Petit déjeuner, Journée Libre. Pour visiter Le Parc Paléontologique \"Bryn Gwyn\" ou les champelles Galoises de la Vallée.</p>\n\t\t\t\t\t\t\t<h4>Cinquičme Jour:</h4><p>Petit déjeuner, transfer ŕ L' aéroport de Trelew.</p>"
+          },
+          {
+            "id": "15",
+            "titulo": "Bahía Bustamante",
+            "html": "<h4>Premier Jour:</h4>\n\t\t\t\t\t\t\t<p>Réception ŕ L' aéroport de Trelew et Transfer Juqu' ŕ \"Bahia Bustamante\", Petit Village alguier unique au monde situé ŕ L'extrčme nord du Golfe \"San Jorge\", ŕ deux cent cinquante klomčtres de L'aéroport de Trelew.</p>\n\t\t\t\t\t\t\t<p>Logement dans des maisons qui ont deux Chambres double et ont tout le nécessaire - Nous y Passerons deux nuits en Pension Complčte.</p>\n\t\t\t\t\t\t\t<h4>Deuxičme Jour:</h4>\n\t\t\t\t\t\t\t<p>Pendant notre séjour nous Pourrons faire des excursions. Pour voir les lions de mer, les Pingouins et observer les oiseaux de maničre générale. Celŕ inclus aussi une mini - croisičre sur, La \"Caleta Malaspina\" et en voyant différentes espčces d'oiseaux maríns.</p>\n\t\t\t\t\t\t\t<p>On Pourra aussí visíter une foręt D' abres Pétrifíes la Pęche côtičre et le Vélo-Tout-Terrain sont des activités aussi disponibles.</p>\n\t\t\t\t\t\t\t<h4>Troisičme Jour:</h4>\n\t\t\t\t\t\t\t<p>Transfer ŕ L'aéroport de Trelew</p>"
+          },
+          {
+            "id": "16",
+            "titulo": "El Pedral",
+            "html": "<h4>Premier Jour:</h4><p>Réception ŕ L'aéroport de Trelew. Et transfer jusqu'ŕ La Estancia \"El Pedral\" trčs Proche de \"Punta Ninfas\" ŕ L' extrčme sud du Golfe \"Nuevo\" ŕ cent Kilomčtre de L'ačroport de Trelew. Logement en chambre double avec salle-de-bains Privée. Deux nuits en pension complčte. Cela inclus aussi Les Boissons et Le goűter.</p>\n\t\t\t\t\t\t\t<h4>Deuxičme Jour:</h4><p>Pendant le séjour vous pourrez faire des excursions pour voir Les éléphants demer et observer de maničre générale les oiseaux-celŕ inclu aussi D'autres activités comme La Péche côtičre, La Pęche en bateau, Le ski nautique, Le vélo tout - terrain, La randonnée, etc.</p>\n\t\t\t\t\t\t\t<h4>Troisičme Jour:</h4><p>Transfer ŕ L' aéroport de Trelew</p>"
+          },
+          {
+            "id": "17",
+            "titulo": "Programme Route 40",
+            "html": "<pre>(6 jours - 5 nuits)<pre>\n\t\t\t\t\t\t\t<h4>Jour 1:</h4><p>Départ de Puerto Madryn ou de Trelew pour la Pinguinera de Punta Tombo et continuation du voyage vers Comodoro Rivadavia ou réception à l'aéroport de Comodoro Rivadavia et transfert à l'hôtel.</p>\n\t\t\t\t\t\t\t<h4>Jour 2:</h4><p>Départ de Comodoro Rivadavia, visite de la forêt pétrifiée de Sarmiento près de la ville de Sarmiento, continuation par la route 40 jusqu'à Perito Moreno et hébergement dans le village de Los Antiguos.</p>\n\t\t\t\t\t\t\t<h4>Jour 3:</h4><p>Départ par la route 41 pour le lac Posadas, avec une vue magnifique sur les rivières Jainemeni et Zeballos et l'imposante colline de San Lorenzo. Arrivée et hébergement.</p>\n\t\t\t\t\t\t\t<h4>Jour 4:</h4><p>Départ pour la route 40 et visite du Canyon de la Rivière Paintings et des Cuevas de las Manos, un site du patrimoine mondial de l'UNESCO. Arrivée à l'estancia de La Angostura et hébergement.</p>\n\t\t\t\t\t\t\t<h4>Jour 5:</h4><p>Départ par la route 40, en bordure du lac Cardiel, pour arriver à El Chanten et transfert à l'hôtel.</p>\n\t\t\t\t\t\t\t<h4>Jour 6:</h4><p>Départ pour El Calafate, au bord du lac Viedma, et arrivée à l'hôtel.</p>\n\t\t\t\t\t\t\t<pre>\tNote: Le jour 3, par la route 41, dépendra de l’état de la route. Si elle est impraticable, la route est faite par la route 40, en visitant Cuevas de las Manos et en laissant la gorge de la rivière Oro pour le jour 4.</pre>\n\t\t\t\t\t\t\t<p>Les services privés avec chauffeur guide espagnol, n'incluent pas les billets pour les réserves fauniques et les parcs.</p>\n\t\t\t\t\t\t\t<h4>Hôtel</h4>\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t<li>Comodoro Rivadavia: Hotel Austral</li>\n\t\t\t\t\t\t\t\t<li>Los Antiguos: Hostería Antigua Patagonia</li>\n\t\t\t\t\t\t\t\t<li>Lago Posadas: Hostería La Posada del Posadas</li>\n\t\t\t\t\t\t\t\t<li>Gobernador Gregores: Estancia la Angostura</li>\n\t\t\t\t\t\t\t\t<li>El Chaltén: Hostería Casa de Piedra</li>\n\t\t\t\t\t\t\t</ul>"
+          },
+          {
+            "id": "18",
+            "titulo": "Programme Route 3 Sud",
+            "html": "<h4>Jour 1:</h4><p>Départ de Puerto Madryn ou de Trelew pour Punta Tombo Pinguinera et continuation du voyage à Comodoro Rivadavia ou accueil à l'aéroport de Comodoro Rivadavia et transfert à l'hôtel. (1ngt) </p>\n\t\t\t\t\t\t\t<h4>Jour 2:</h4><p>Départ pour Puerto Deseado et nuit à l’hôtel (1 ngt). Navigation facultative dans l'après-midi dans la Ría Deseado. </p>\n\t\t\t\t\t\t\t<h4>Jour 3:</h4><p>Départ pour la forêt Petrificado Jaramillo et continuation pour Puerto San Julián. Hébergement (1 ngt). </p>\n\t\t\t\t\t\t\t<h4>Jour 4:</h4><p>Départ pour le parc national de Monte León, visite de la colonie de manchots et de la lobería marine. Hébergement à Estancia Monte León ou Isla Pavón. </p>\n\t\t\t\t\t\t\t<h4>Jour 5:</h4><p>Départ pour El Calafate.</p>\n\t\t\t\t\t\t\t<pre>Services privés avec chauffeur guide espagnol, ne comprend pas les billets pour les réserves fauniques et les parcs. </pre>\n\t\t\t\t\t\t\t<h4>Hôtels</h4>\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li>Comodoro Rivadavia: Hotel Austral</li>\n\t\t\t\t\t\t\t\t\t<li>Puerto Deseado: Hotel Los Acantilados</li>\n\t\t\t\t\t\t\t\t\t<li>Bahía San Julian: Hotel Bahia</li>\n\t\t\t\t\t\t\t\t\t<li>Monte León o Isla Pavón</li>\n\t\t\t\t\t\t\t\t</ul>"
+          }
+        ]
+      },
+      "srv_avistaje": {
+        "html": "<h1 class=\"rojo\">Observation des baleines</h1>\n\t\t\t\t<h4>Baleines Franches</h4>\n\t\t\t\t<p>La navigation pour voir les baleines franches du sud ce fera depuis le port de Puerto Pirámide sur la péninsule Valdés. Des bateaux a moteur sont spécialement aménagés pour ne recevoir pas plus de cinquante passagers. Des gilets de sauvetage et des capes imperméables sont prętés aux touristes pour faire face aux éventuelles intempéries.</p>\n\t\t\t\t<p>La durée de la promenade sur l'eau dépend de la distance ŕ laquelle se trouvent les baleines en haute mer. </p>\n\t\t\t\t<p>Normalement cette durée est de approximativement de une heure ŕ deux heures.</p>\n\t\t\t\t<h4>Dauphins de commerson</h4>\n\t\t\t\t<p>La navigation pour voir les dauphins de Commerson se fait depuis le port de Puerto Rawson. Les bateaux ŕ moteur sont spécialement aménagés pour ne pas recevoir plus de quinze passagers. On vous prętera un gilet de sauvetage et une cape imperméable pour prévoir toutes sortes d'intempéries en mer. </p>\n\t\t\t\t<pre>La durée de la promenade sur l 'eau est de environs une heure.</pre>"
+      },
+      "srv_excursiones": {
+        "html": "<div id=\"showhide\">\n<h1><i class=\"fa fa-arrows-alt\"></i> Tabla Excursiones</h1>\n<div>\n<p>\n<table width=\"100%\" border=\"0\">\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>EXCURSION </p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>DESDE: </p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>SALE </p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>REGRESA</p></td>\n  </tr>\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>A Península Valdés</p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>Trelew </p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>7:15 hs.</p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>20:00 hs.</p></td>\n  </tr>\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>&nbsp;</p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>8:30 hs.</p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>19:00 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>A Punta Tombo</p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>Puerto Madryn </p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>8:00 hs.</p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>18:30 hs.</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn </p></td>\n    <td class=\"cpo\"><p>8:00 hs.</p></td>\n    <td class=\"cpo\"><p>15:30 hs. Apto. Trelew</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>9:15 hs. </p></td>\n    <td class=\"cpo\"><p>15:30 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Colonia Galesa</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>14:30 hs.</p></td>\n    <td class=\"cpo\"><p>19:00 hs.</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>13:30 hs.</p></td>\n    <td class=\"cpo\"><p>20:00 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>Bosque Petrificado con Dique Ameghino</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>8:00 hs.</p></td>\n    <td class=\"cpo\"><p>17:30 hs.</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>9:00 hs.</p></td>\n    <td class=\"cpo\"><p>16:30 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Península Valdés con Pernocte</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>7:15 hs.</p></td>\n    <td class=\"cpo\"><p>20:00 hs. (día Sig.)</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>8:30 hs.</p></td>\n    <td class=\"cpo\"><p>19:00 hs. (día Sig.)</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Navegación Tonina Overa (Delfin)</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>Consultar Mareas</p></td>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>Consultar Mareas</p></td>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Punta Ninfas</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>8:30hs</p></td>\n    <td class=\"cpo\"><p>17:00hs</p></td>\n  </tr>\n  <tr>\n    <td colspan=\"4\" valign=\"top\"><p><em>Navegación de avistaje de Ballenas Franca , desde Puerto Pirámides, sale cuando arriba la excursión.</em></p></td>\n  </tr>\n</table>\n</p>\n</div>\n</div>"
+      },
+      "srv_hoteles": {
+        "html": "<h1 class=\"rojo\">Hotels</h1>\n\t\t\t\t<p>Des hôtels de 2,3, 4 et 5 étoiles, Hosterías, Posées et Séjours, et ceux-ci sont certains des établissements hôteliers.</p>"
+      },
+      "srv_calendario": {
+        "html": "<h1 class=\"rojo\">La Faune La durée de permanence.</h1>\n\t\t\t\t<p>Cette Table résume la principale faune existente dans les réserves de Punta Tombo et de la Péninsule Valdés et elle est une source d´informations pour que l´agent de voyages puisse vendre et offrir les meilleurs services touristiques.</p>\n\t\t\t\t<img src=\"imagenes/calendario.gif\" />\n\t\t\t\t<h4>Faune Permanente</h4>\n\t\t\t\t<p>Autruches, Guanacos, Maras, Piches, Ličvres, Martinettes, Renards, Putois et une grande Variétés D´Oiseaux.</p>\n\t\t\t\t<img src=\"imagenes/faunaestable.jpg\" />"
+      },
+      "srv_mapas": {
+        "html": "<h1 class=\"rojo\">Les Carteles de la Province du Chubut</h1>\n\t\t\t\t<h4>Les principales routes et chemins de la province</h4>\n\t\t\t\t<img src=\"imagenes/mapas/principales-rutas-caminos.gif\" />\n\t\t\t\t<hr>\n\t\t\t\t<h4>La zone de concentration de la baleine franche du sud</h4>\n\t\t\t\t<img src=\"imagenes/mapas/peninsula-ballenas.gif\" />\n\t\t\t\t<hr>\n\t\t\t\t<h4>Punta Tombo - Le Cape \"Dos Bahias\"</h4>\n\t\t\t\t<img src=\"imagenes/mapas/areas-protegidas-cdb-pt.gif\" />\n\t\t\t\t<hr>\n\t\t\t\t<h4>La cote atlantique - Les zones de peches</h4>\n\t\t\t\t<img src=\"imagenes/mapas/zona-pesca-atlantica.gif\" />\n\t\t\t\t<hr>\n\t\t\t\t<h4>Les parcourts vers la foret pétrifiée de Sarmiento</h4>\n\t\t\t\t<img src=\"imagenes/mapas/bosque-recorridos.gif\" />\n\t\t\t\t<hr>\n\t\t\t\t<h4>Les villages du nord-est de la province du Chubut</h4>\n\t\t\t\t<img src=\"imagenes/mapas/comarca-noreste.gif\" />"
+      },
+      "cnt": {
+        "html": "<h1 class=\"verde\">Contact Rapports</h1>\n\t\t\t<p>S'il vous plaît remplir le formulaire ci-dessous et nous vous répondrons dčs que possible.</p>"
+      }
+    }
+  },
+  "portuguese": {
+    "sections": {
+      "idx": {
+        "html": "<h1>O Melhor Serviço Turístico... </h1>\n\t\t\t<p>Nievemar Tours S.R.L. lhe convida a conhecer os lugares mais fantásticos do sul da Patagonia, reconhecidos nacional e internacionalmente: Península Valdés e Punta Tombo, proporcionando agradáveis passeios pelas regiőes próximas das cidades: Trelew, Puerto Madryn (Porto Madryn), Rawson, Playa Unión (Praia Uniăo), Puerto Piramide (Porto Pirâmide), Dique Florentino Ameguino, colônia galesa Gaiman, Glaciar (Glacial) Perito Moreno e a cidade mais austral do mundo: Ushuaia. </p>\n\t\t\t<br>\n\t\t\t<h4>Trelew</h4>\n\t\t\t<p>Italia 20 - Tel 54-280-4434114 /4435646 - Fax:54-280-4423624</p>\n\t\t\t<p>C.P. 9100 Trelew, Argentina.</p>"
+      },
+      "nos": {
+        "html": "<h1 class=\"azul\">Breve História do NIEVEMAR TOURS (S/A)</h1>\n\t\t\t<p>Nievemar Tours (Ltda) foi fundada en Junho de 1983, primeiro como sociedade entre José Pedro Miranda e Miguel Angel Miranda, e desde 1986 até hoje como Sociedade Limitada.</p>\n\t\t\t<p>Desde o início a agęncia trabalhou com passagens aéreas e excursőes, dentro e fora do país e a partir do ano de 1984 começou como agęncia de turismo local. Oferecendo uma lista importante de hotéis em Porto Madryn e Trelew, passeios, translados e excursőes a Península Valdés onde se pode conhecer os lobos e elefantes marinhos, a Punta Tombo com os pinguins, Dique Ameguino, Bosques petrificados, navegaçăo entre baleias francas e golfinhos, etc. Também nesse ano, recebeu o certificado de agencia I.A.T.A </p>\n\t\t\t<p>No decorrer dos anos a empresa foi adquirindo veículos de tranporte de passageiros. Hoje conta com uma importante frota de veículos novos equipados com última tecnologia. Seus únicos dois sócios, (pai e filho) tęm diferentes papéis dentro da sociedade. Miguel, com sua experięncia de quatro anos nas linhas aéreas Argentinas é responsável pelos setores comercial e operativo e José Pedro que no passado trabalhou na área automotiva, como representante das marcas: Peugeot, Citroen e Mercedes Bens, possui a experięncia necessária para estar a frente nas oficias mecânicas da empresa, onde se realiza a manutençăo dos veículos, desde limpeza, lubrificaçăo, borracharia, pintura e mecânica em geral.</p>\n\t\t\t<p>Além disso, com suas duas agęncias de turismo e atendimento ao cliente, em Porto Madryn e Trelew, com atendentes bilingues e guías turísticos preparados, em quase todos os idiomas podemos garantir a nossos clientes a oferta de um serviço de qualidade e presença.</p>\n\t\t\t<p>Somado a tudo isso, no ano de 1998 Nievemar Tours SRL, foi escolhida por American Express Travel Service, a representante de seus interesses nas cidades e zonas de influęncia de Porto Madryn, Trelew, Rawson, Gaiman, Dolavon e Porto Piramides. Em janeiro de 2000, American Express Travel Service a nomeou franquia e o contrato perdurou até maio de 2006, quando, por decisobre dos sócios a empresa se desvinculou da rede de franquias American Express.</p>\n\t\t\t<p>Em dezembro de 2007 recebeu o certificado de Compromisso de Qualidade Turística argentina associado ao projeto de Modelo de Aproximaçao ŕ Qualidade SCTE Boas Práticas, outorgado pela Direçao da Gestao de Qualidae Turística da Secretaria de Turismo da Naçao.</p>",
+        "titulares": [
+          {
+            "label": "Breve História",
+            "data": "nos",
+            "icon": "fa fa-info"
+          },
+          {
+            "label": "Nossas Agencias",
+            "data": "nos_oficinas",
+            "icon": "fa fa-building-o"
+          },
+          {
+            "label": "Nossos veículos",
+            "data": "nos_vehiculos",
+            "icon": "fa fa-truck"
+          },
+          {
+            "label": "Manutençăo Garagem",
+            "data": "nos_talleres",
+            "icon": "fa fa-wrench"
+          }
+        ]
+      },
+      "nos_oficinas": {
+        "html": "<h1 class=\"azul\">Nossas Agencias. Escritorios</h1>\n\t\t\t<p>Nievemar Tours tem escritórios nas cidades de Trelew e Puerto Madryn com pessoal bilíngüe e guias turísticos disponíveis em quase todas as línguas, oferece aos clientes serviço de garantia, qualidade e presença.</p>\n\t\t\t<br>\n\t\t\t<div class=\"full\"  style=\"text-align: center;\">\n\t\t\t\t<img src=\"imagenes/trelew.jpg\" /><br>\n\t\t\t\t<pre>Italia 20 - Tel 54-280-4434114 /4435646 - Fax:54-280-4423624. Trelew, Argentina.</pre>\n\t\t\t\t<br>\n\t\t\t</div>"
+      },
+      "nos_vehiculos": {
+        "html": "<h1 class=\"azul\">Nossos veículos</h1>\n\t\t\t<p>Vocę Nievemar veículos. Atualmente, uma grande frota de veículos com o equipamento. Autocarro 45, 24, 19 e 14 lugares, automóveis e veículos 4x4.</p>\n\t\t\t<div class=\"full\"  style=\"text-align: center;\">\n\t\t\t\t<img src=\"imagenes/vehiculos.jpg\" /><br> <img src=\"imagenes/flota_colec.jpg\" />\t<br><img src=\"imagenes/flota_duster.jpg\" />\n\t\t\t</div>"
+      },
+      "nos_talleres": {
+        "html": "<h1 class=\"azul\">Manutençăo Garagem </h1>\n\t\t\t<p>A empresa tem o seu próprio veículo oficinas para as estruturas de manutençăo e combustível em si.</p>\n\t\t\t<div class=\"full\"  style=\"text-align: center;\">\n\t\t\t\t<img src=\"imagenes/talleres.jpg\" />\n\t\t\t</div>"
+      },
+      "srv": {
+        "titulares": [
+          {
+            "label": "Pacotes Turísticos",
+            "data": "srv",
+            "icon": "fa fa-gift"
+          },
+          {
+            "label": "Excursőes",
+            "data": "srv_excursiones",
+            "icon": "fa fa-globe"
+          },
+          {
+            "label": "Navegaçăo ao Baleias",
+            "data": "srv_avistaje",
+            "icon": "fa fa-camera-retro"
+          },
+          {
+            "label": "Hotéis",
+            "data": "srv_hoteles",
+            "icon": "fa fa-hospital-o"
+          },
+          {
+            "label": "Calendário de Fauna",
+            "data": "srv_calendario",
+            "icon": "fa fa-calendar"
+          },
+          {
+            "label": "Mapas do Chubut",
+            "data": "srv_mapas",
+            "icon": "fa fa-map-marker"
+          }
+        ],
+        "intro": "<h1 class=\"rojo\">Pacotes Turísticos</h1>\n\t\t\t<p>Península Valdés, Puerto (porto) Pirâmide, Caleta Valdés, Isla de los Pájaros (Ilha dos Pássaros), Puerto (porto) Madryn, Punta Tombo, Vale baixo do Rio Chubut, Gaiman (Colonia Galesa), Playa Unión, Puerto Rawson, Esquel, Parque Nacional Los Alerces, Bariloche, El Calafate, Glaciar (Glacial) de Baegle, Museo del fin del mundo (Museu do fim do mundo), Torres del Paine (Chile), Puerto (Porto) Natales (Chile), Monte Fitz Roy, El Chalten, Lago Viedma, entre outros lugares turísticos. Hotéis de 2, 3 e 4 estrelas, Hospedarias, Pousadas e Estâncias. Transporte, Alojamento e café da manhă. Passeios, excursőes, caminhadas. conhecendo Baleias, Orcas, Golfinhos, Toninas, Elefantes marinhos, Pinguins.</p>",
+        "paquetes": [
+          {
+            "id": "1",
+            "titulo": "Península Valdés #1",
+            "html": "<li>Duas noites em hotel previamente reservado com café da manhă</li>\n\t\t\t\t\t<li>transporte na chegada e no retorno.</li>\n\t\t\t\t\t<li>Excursăo o dia todo pela Península Valdés </li>"
+          },
+          {
+            "id": "1",
+            "titulo": "Península Valdés #2",
+            "html": "<li>Tręs noites de hospedagem em hotel selecionado, com café da manhă.</li>\n\t\t\t\t\t<li>Transporte na chegada e na saída.<li>\n\t\t\t\t\t<br>\n\t\t\t\t\t<li>Excursăo o dia inteiro na Península de Valdés.</li>\n\t\t\t\t\t<li>Excursăo conhecer (\"a pinguinera \"= habitat dos pinguins) de Punta Tombo.</li>"
+          },
+          {
+            "id": "1",
+            "titulo": "Península Valdés #3",
+            "html": "<li>Tręs noites de hospedagem en hotel selecionado, com café da manhă.</li>\n\t\t\t\t\t<li>Transporte na chegada e na saída.</li>\n\t\t\t\t\t<li>Excursăo o dia inteiro na Península de Valdés.</li>\n\t\t\t\t\t<li>Excursăo o dia inteiro para conhecer os pinguins de Punta Tombo Colônia Galesa.</li>"
+          },
+          {
+            "id": "4",
+            "titulo": "Ornitólogos en Patagonia",
+            "html": "<h4>Dia 1 Viedma</h4><p>Chegada ao aeroporto de Viedma, traslado ao jantar do hotel.</p>\n\t\t\t\t\t<h4>Dia 2 Viedma</h4><p>Começando no início da manhã para o \"Caleta de los Loros\" a maior concentração de Buraqueira Papagaios do mundo (escavando papagaio) sobre a forma como vemos exemplos de Inambú Petiso (de Darwin Nothura) e Martinetas (Eudromia Elegans), bem vários passeriformes e aves de rapina. </p>\n\t\t\t\t\t<h4>Dia 3 Viedma - San Antonio Oeste - Península Valdés</h4><p>Transferência de terras com várias paradas para observar espécies como o Cardeal Amarillo (cardeal amarelo) ou sobrepor (colegial) Hotel ou permanecer na Península Valdes.</p>\n\t\t\t\t\t<h4>Dia 4 da Península Valdés </h4><p>Dia dedicado a explorar a península de observar uma variedade de passeriformes várias famílias típicas da estepe patagônica como Canastero Patagónico (Patagônia Asthenes) e costeiro como o Petrel Gigante (Macronectes giganteus) ou Shag Rock Thrush (shag rock) </p>\n\t\t\t\t\t<h4>Dia 5 Península Valdés - Chubut vale </h4><p>A partir do hotel ou ficar Southbound chegou ao Vale Chubut, onde iremos identificar pelo menos 20 aquático diferente em Ornitólogo Lagunas, perto de Trelew. Alojamento em Gaiman (fazenda ou pousada). </p>\n\t\t\t\t\t<h4>Dia 6 Gaiman</h4><p>Posição para a barragem Florentino Ameghino observando diversas espécies do planalto patagônico para alcançar represa da garganta e rocha aterros ideais para ver rapina e sequestrantes. </p>\n\t\t\t\t\t<h4>Dia 7 Gaiman - Punta Tombo - Aeroporto </h4><p>Partida para Punta Tombo reserva maior concentração de pinguins (Magellanic Pinguim) em todo o mundo. À tarde, traslado ao aeroporto. </p>"
+          },
+          {
+            "id": "6",
+            "titulo": "Posada Los Mimbres - Colonia Galesa",
+            "html": "<h4>Dia 1:</h4><p>Recepçăo no aeroporto e transporte até hotel reservado na cidade de Puerto Madryn ou Trelew. Hospedagem.</p>\n\t\t\t\t\t<h4>Dia 2:</h4><p>Café da manhă, excursăo o dia inteiro ŕ Península de Valdés. Visita a Porto Pirâmide (navegaçăo opcional) e a Elefanteria marinha de Caleta Valdés ou Punta Norte. Pela tarde regressamos ao hotel.</p>\n\t\t\t\t\t<h4>Dia 3:</h4><p>Café da manhă. Excursăo o dia inteiro ŕ Pinguinera de Punta Tombo. Pela tarde passeio em Gaiman (Colonia Galesa) e hospedagem na chácara e Pousada Los Mimbres. Tarde livre.</p>\n\t\t\t\t\t<h4>Dia 4:</h4><p>Café da manhă. Manhă livre para desenvolver atividades de campo. Transporte até o aeroporto.</p>"
+          },
+          {
+            "id": "7",
+            "titulo": "Península Valdés - Colonia Galesa",
+            "html": "<h4>Dia 1:</h4><p>Recepçăo no aeroporto de Trelew e transporte até o hotel reservado. Hospedagem.</p>\n\t\t\t\t\t<h4>Dia 2:</h4><p>Café da manhă, Passeio pela Península de Valdés, visitando o Istmo Ameguino, Isla de los pájaros (Ilha dos Pássaros) e Porto Piramide (opcional: navegaçăo até as baleias). Pela tarde hospedagem na Estância Rincón Chico ou La Elvira.</p>\n\t\t\t\t\t<h4>Dia 3:</h4><p>Café da manhă. Manhă livre para desenvolver atividades num passeio rural. Pela tarde excursăo a Elefanteria Marinha de Caleta Valdés e retorno a Porto Madryn ou Trelew. Hospedagem em hotem escohido.</p>\n\t\t\t\t\t<h4>Dia 4:</h4><p>Café da manhă. Excursăo a Pinguinera de Punta Tombo e Gaiman, hospedagem na Pousada Los Minbres (opcional: trilhas na mata ou turismo rural.</p>\n\t\t\t\t\t<h4>Dia 5:</h4><p>Café da manhă. Tempo livre. Transporte até o aeroporto de Trelew.</p>"
+          },
+          {
+            "id": "8",
+            "titulo": "Estancias de Península Valdés",
+            "html": "<h4>Dia 1:</h4>\n\t\t\t\t\t<p>Recepçăo no aeroporto da Trelew e transporte ao hotel reservado. Hospedagem.</p>\n\t\t\t\t\t<h4>Dia 2: </h4>\n\t\t\t\t\t<p>Café da manhă, Passeio pela Península de Valdés, visitando o Istmo Ameguino, a Ilha dos Pássaros e Porto Pirâmide (opcional: navegaçăo baleias). Pela tarde passeio a Punta Delgada e hospedagem na Estância Rincón Chico. O jantar está incluído</p>\n\t\t\t\t\t<h4>Dia 3:</h4>\n\t\t\t\t\t<p>Café da manhă. Manhă livre para turismo rural <br>\n\t\t\t\t\tPela tarde excuçăo a elefanteria marinha de Caleta Valdés, transporte a Punta Norte e alojamento na Estância - A Elvira. O jantar está incluído.</p>\n\t\t\t\t\t<h4>Dia 4: </h4>\n\t\t\t\t\t<p>Café da manhă. Excursăo para conhecer a fauna, ŕ tarde passeio a Puerto Madryn. Alojamento no hotel reservado.</p>\n\t\t\t\t\t<h4>Dia 5:</h4>\n\t\t\t\t\t<p>Café da manhă. Translado para o aeroporto de Trelew.</p>"
+          },
+          {
+            "id": "9",
+            "titulo": "Colônia Galesa",
+            "html": "<h4>Día 1:</h4><p>Recepçăo no aeroporto de Trelew e translado ao Hotel reservado. Alojamento.</p>\n\t\t\t\t\t<h4>Día 2:</h4><p>Café da manhă. Excursăo o dia inteiro ŕ Penísula de Valdés, visitando Puerto Pirâmide (opcional ver as baleias) e a elefanteria marina de Caleta Valdés, ou Punta Tombo.</p>\n\t\t\t\t\t<h4>Día 3:</h4><p>Café da manhă. Excursăo o dia inteiro ŕ pinguinera de Punta Tombo e Gaiman (Colônia Galesa), City Tour e alojamento na Hosteria Gwesty Tywi, ambientada numa antiga casa de estilo galęs.</p>\n\t\t\t\t\t<h4>Día 4:</h4><p>Café da manhă. O dia livre para visitar o parque Paleontológico Bryn Gwyn, ou as capelas galesas do vale.</p>\n\t\t\t\t\t<h4>Día 5:</h4><p>Café da manhă. Transporte para o aeroporto de Trelew.</p>"
+          },
+          {
+            "id": "15",
+            "titulo": "Bahía Bustamante",
+            "html": "<h4>Dia 1:</h4><p>Recepçăo no aeroporto de Trelew e transporte até Bahia Bustamanate, um pequeno povoado Alguero. Único no mundo situado no extremo norte do golfo Săo Jorje, a 250 km do aeroporto de Trelew. Haverá alojamento em casas com dois quartos, com duas camas cada, totalmente equipadas, por duas noites com pensăo completa.</p>\n\t\t\t\t\t<h4>Dia 2:</h4><p>Durante esta estadia poder-se-á realizar excursőes para o habitat dos lobos marinhos, pinguins, conhecer a fauna avícula em geral, inclui uma navegaçăo pela Caleta Malaspina, de onde se pode avistar diferentes aves marinhas. Também se pode visitar um bosque petrificado, entre outras atividades que se pode realizar é a pesca costeira e Montain Bike.</p>\n\t\t\t\t\t<h4>Día 3:</h4><p>Transporte ao aeroporto de Trelew</p>"
+          },
+          {
+            "id": "16",
+            "titulo": "El Pedral",
+            "html": "<h4>Día 1:</h4><p>Recepçăo no aeroporto de Trelew e transporte até a Estância El Pedral, muito próxima de Punta Ninfas, extremo sul do Golfo Novo, a 100 km (do Apto) de Trelew. Hospedagem em Lodge de quartos-suítes com banheiro privado. Por duas noites com pensăo completa, incluindo bebida e lanches.</p>\n\t\t\t\t\t<h4>Día 2:</h4><p>Durante esta estadia poder-se-ăo realizar excursőes ao habitat de elefantes marinhos, conhecer as aves e a fauna em geral, incluindo outras atividades como: pesca costeira, pesca com embarcaçăo, ski aquático, montain bike, trekking, etc.</p>\n\t\t\t\t\t<h4>Día 3:</h4><p>Transporte ao aeroporto de Trelew.</p>"
+          },
+          {
+            "id": "17",
+            "titulo": "Programa Rota 40",
+            "html": "<pre>(6 dias-5 noites)</pre>\n\t\t\t\t\t\t<h4>Dia 1:</h4><p>Saída de Puerto Madryn ou Trelew, para a Pinguinera de Punta Tombo e continuação da viagem para Comodoro Rivadavia, ou Recepção no Aeroporto Comodoro Rivadavia e traslado ao Hotel.</p>\n\t\t\t\t\t\t<h4>Dia 2:</h4><p>Partida de Comodoro Rivadavia, visitando a floresta petrificada de Sarmiento, perto da cidade de Sarmiento, continuando pela rota 40 até Perito Moreno e hospedando-se na vila de Los Antiguos.</p>\n\t\t\t\t\t\t<h4>Dia 3:</h4><p>Saída pela rota 41 para o Lago Posadas, com belas vistas dos rios Jainemeni e Zeballos e do imponente Cerro San Lorenzo, chegada e hospedagem.</p>\n\t\t\t\t\t\t<h4>Dia 4:</h4><p>Partida para a rota 40 e visita ao Canyon das Pinturas do Rio e às Cuevas de las Manos, um Patrimônio Mundial da UNESCO. Chegada a La Angostura estancia e hospedagem.</p>\n\t\t\t\t\t\t<h4>Dia 5:</h4><p>Partida pela rota 40, na fronteira com o Lago Cardiel, chegando a El Chanten e traslado ao hotel.</p>\n\t\t\t\t\t\t<h4>Dia 6:</h4><p>Partida para El Calafate, na fronteira com o Lago Viedma, e chegada ao hotel.</p>\n\t\t\t\t\t\t<pre>Nota: O dia 3, pela rota 41, dependerá do estado da rota, se for intransitável, a rota é feita pela rota 40, visitando Cuevas de las Manos, e saindo da Garganta do Rio Oro para o dia 4.</pre>\n\t\t\t\t\t\t<p>Serviços privados com motorista de guia espanhol, não inclui ingressos para reservas de vida selvagem e parques</p>\n\t\t\t\t\t\t<h4>Hoteles</h4>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>Comodoro Rivadavia: Hotel Austral</li>\n\t\t\t\t\t\t\t<li>Los Antiguos: Hostería Antigua Patagonia</li>\n\t\t\t\t\t\t\t<li>Lago Posadas: Hostería La Posada del Posadas</li>\n\t\t\t\t\t\t\t<li>Gobernador Gregores: Estancia la Angostura</li>\n\t\t\t\t\t\t\t<li>El Chaltén: Hostería Casa de Piedra</li>\n\t\t\t\t\t\t</ul>"
+          },
+          {
+            "id": "18",
+            "titulo": "Programa Route 3 Sul",
+            "html": "<h4>Dia 1:</h4><p>Saída de Puerto Madryn ou Trelew, para a Punta Tombo Pinguinera e continuação da viagem para Comodoro Rivadavia, ou Recepção no Aeroporto Comodoro Rivadavia e traslado ao Hotel . (1ngt) </p>\n\t\t\t \t\t\t<h4>Dia 2:</h4><p>Partida para Puerto Deseado e pernoite no Hotel (1 ngt). Navegação à tarde opcional pela Ría Deseado. </p>\n\t\t\t \t\t\t<h4>Dia 3:</h4><p>Partida para a floresta de Petrificado Jaramillo, continuando para Puerto San Julián. Alojamento (1 ngt). </p>\n\t\t\t \t\t\t<h4>Dia 4:</h4><p>Partida para o Parque Nacional Monte León, visita à colônia de pinguins e lobería marinha. Alojamento na Estancia Monte León ou Isla Pavón. </p>\n\t\t\t \t\t\t<h4>Dia 5:</h4><p>Partida para El Calafate. </p>\n\t\t\t \t\t\t<pre> Serviços privados com motorista de guia espanhol, não incluem ingressos para reservas de vida selvagem e parques. </pre>\n\t\t\t \t\t\t<h4>Hotéis</h4>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>Comodoro Rivadavia: Hotel Austral</li>\n\t\t\t\t\t\t\t<li>Los Antiguos: Hostería Antigua Patagonia</li>\n\t\t\t\t\t\t\t<li>Lago Posadas: Hostería La Posada del Posadas</li>\n\t\t\t\t\t\t\t<li>Gobernador Gregores: Estancia la Angostura</li>\n\t\t\t\t\t\t\t<li>El Chaltén: Hostería Casa de Piedra</li>\n\t\t\t\t\t\t</ul>"
+          }
+        ]
+      },
+      "srv_excursiones": {
+        "html": "<div id=\"showhide\">\n<h1><i class=\"fa fa-arrows-alt\"></i> Tabla Excursiones</h1>\n<div>\n<p>\n<table width=\"100%\" border=\"0\">\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>EXCURSION </p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>DESDE: </p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>SALE </p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>REGRESA</p></td>\n  </tr>\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>A Península Valdés</p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>Trelew </p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>7:15 hs.</p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>20:00 hs.</p></td>\n  </tr>\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>&nbsp;</p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>8:30 hs.</p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>19:00 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>A Punta Tombo</p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>Puerto Madryn </p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>8:00 hs.</p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>18:30 hs.</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn </p></td>\n    <td class=\"cpo\"><p>8:00 hs.</p></td>\n    <td class=\"cpo\"><p>15:30 hs. Apto. Trelew</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>9:15 hs. </p></td>\n    <td class=\"cpo\"><p>15:30 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Colonia Galesa</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>14:30 hs.</p></td>\n    <td class=\"cpo\"><p>19:00 hs.</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>13:30 hs.</p></td>\n    <td class=\"cpo\"><p>20:00 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>Bosque Petrificado con Dique Ameghino</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>8:00 hs.</p></td>\n    <td class=\"cpo\"><p>17:30 hs.</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>9:00 hs.</p></td>\n    <td class=\"cpo\"><p>16:30 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Península Valdés con Pernocte</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>7:15 hs.</p></td>\n    <td class=\"cpo\"><p>20:00 hs. (día Sig.)</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>8:30 hs.</p></td>\n    <td class=\"cpo\"><p>19:00 hs. (día Sig.)</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Navegación Tonina Overa (Delfin)</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>Consultar Mareas</p></td>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>Consultar Mareas</p></td>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Punta Ninfas</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>8:30hs</p></td>\n    <td class=\"cpo\"><p>17:00hs</p></td>\n  </tr>\n  <tr>\n    <td colspan=\"4\" valign=\"top\"><p><em>Navegación de avistaje de Ballenas Franca , desde Puerto Pirámides, sale cuando arriba la excursión.</em></p></td>\n  </tr>\n</table>\n</p>\n</div>\n</div>"
+      },
+      "srv_avistaje": {
+        "html": "<h1 class=\"rojo\">Observation des Baleines</h1>\n\t\t\t<h4>Baleias Francas</h4>\n\t\t\t<p>La navegaçăo para conhecer de perto as Baleias Francas sai de Porto Pirâmide, na Península Valdés em embarcaçőes de no máximo 50 passageiros. Possui salva-vidas e capas de chuva.</p>\n\t\t\t<p>A duraçăo da navegaçăo depende da distância em que se encontram as Baleias, normalmente esta da excursăo năo excede 1:30 a 2:00 hs.</p>\n\t\t\t<h4 class=\"rojo\">Baleias Francas</h4>\n\t\t\t<p>A navegaçăo para ver a Toninas Overa, sai de Porto Rawson em embarcaçőes de no máximo 15 passageiros. Possui salva-vidas e capas de chuva.</p>\n\t\t\t<pre>A duraçăo da navegaçăo năo excede 1 hora.</pre>"
+      },
+      "srv_calendario": {
+        "html": "<h1 class=\"rojo\">Calendario de Fauna</h1>\n\t\t\t<p>Esta tabla resume la principal fauna existente en las reservas de Punta Tombo y de Península Valdés y es una fuente de información para que los agentes de viajes puedan ofrecer los mejores servicios turísticos. </p>\n\t\t\t<img src=\"imagenes/calendario.gif\" />"
+      },
+      "srv_hoteles": {
+        "html": "<h1 class=\"rojo\">Hoteles</h1>\n\t\t\t<p>Hoteles de 2, 3, 4 y 5 estrellas, Hosterías, Posadas y Estancias, y éstos son algunos de los establecimientos hoteleros: </p>"
+      },
+      "srv_mapas": {
+        "html": "<h1 class=\"rojo\">Mapas de Chubut</h1>\n\t\t\t<h4>Principales Rutas y Caminos en la Provincia</h4>\n\t\t\t<img src=\"imagenes/mapas/principales-rutas-caminos.gif\">\n\t\t\t<hr>\n\t\t\t<h4>Area de Concentración Ballena Franca Austral </h4>\n\t\t\t<img src=\"imagenes/mapas/peninsula-ballenas.gif\">\n\t\t\t<hr>\n\t\t\t<h4>Punta Tombo - Cabo Dos Bahías </h4>\n\t\t\t<img src=\"imagenes/mapas/areas-protegidas-cdb-pt.gif\">\n\t\t\t<hr>\n\t\t\t<h4>Costa Atlántica - Zonas de Pesca </h4>\n\t\t\t<img src=\"imagenes/mapas/zona-pesca-atlantica.gif\">\n\t\t\t<hr>\n\t\t\t<h4>Zona de Concentración de la Tonina Overa </h4>\n\t\t\t<img src=\"imagenes/mapas/concentracion-toninas.gif\">\n\t\t\t<hr>\n\t\t\t<h4>Recorridos al Bosque Petrificado de Sarmiento </h4>\n\t\t\t<img src=\"imagenes/mapas/bosque-recorridos.gif\">\n\t\t\t<hr>\n\t\t\t<h4>Comarca del Noreste del Chubut</h4>\n\t\t\t<img src=\"imagenes/mapas/comarca-noreste.gif\">\n\t\t\t<hr>"
+      },
+      "cnt": {
+        "html": "<h1 class=\"verde\">Contacto para Informes</h1>\n\t\t<p>Por favor complete el siguiente formulario y le responderemos a la brevedad.</p>"
+      }
+    }
+  },
+  "italiano": {
+    "sections": {
+      "idx": {
+        "html": "<h1>Il miglior servizio turistico... </h1>\n\t\t\t<p>NIEVEMAR TOURS S.R.L. vi invita a conoscere i posti piů affascinanti della Patagonia del Sud, dichiarati d'interesse nazionale ed internazionale: Penisola Valdés - Punta Tombo, con percorsi che prevedono visite alle cittŕ di Trelew, Puerto Madryn, Rawson, Playa Unión, Puerto Pirámides, Dique Florentino Ameghino, colonia gallese di Gaiman, Glaciar Perito Moreno, e la cittŕ piů australe del mondo: Ushuaia. </p>\n\t\t\t<br>\n\t\t\t<h4>Trelew</h4>\n\t\t\t<p>Italia 20 - Tel 54-280-4434114 /4435646 - Fax:54-280-4423624</p>\n\t\t\t<p>C.P. 9100 Trelew, Argentina.</p>"
+      },
+      "nos": {
+        "html": "<h1 class=\"azul\">Breve rassegna su NieveMar Tours S.R.L. </h1>\n\t\t<p>Fondata nel giugno del 1983, prima come societŕ di fatto tra José Pedro Miranda e Miguel Angel Miranda, e dal 1986 trasformata in NIEVEMAR TOURS S.R.L.</p>\n\t\t<p>Inizialmente l'agenzia commercializzň biglietti aerei ed escursioni dentro e fuori l'Argentina, e dal 1984 (ottenuta la certificazione \"Agenzia I.A.T.A.\") funziona come operatore per il turismo ricettivo offrendo una lista importante di alberghi a Puerto Madryn e Trelew, trasferimenti ed escursioni: alle colonie di leoni / elefanti marini - della Penisola Valdes alla colonia di pinguini di Punta Tombo, Diga Florentino Ameghino, boschi pietrificati, navigazione - avvistamento balene e delfini, ecc.</p>\n\t\t<p>Col trascorrere degli anni l'agenzia acquista veicoli di trasporto ; attualmente puň contare su un'importante flotta eccellentemente attrezzata </p>\n\t\t<p>I suoi unici due soci (padre e figlio), hanno ruoli ben diversi dentro la societŕ: Miguel (con 4 anni di esperienza lavorativa in Aerolineas Argentinas) č il responsabile del settore operativo e commerciale ; mentre José Pedro (ex - rappresentante di auto Peugeot - Citroen e Mercedes Benz) aggiunge l'esperienza necessaria, nelle officine che possiede la compagnia, dove si mantengono i veicoli in perfetta efficienza di meccanica e di carrozzeria.</p>\n\t\t<p>Con due sedi operative e attivitŕ ricettiva a Puerto Madryn e Trelew, con personale ed accompagnatori autorizzati, che parlano diverse lingue, la compagnia offre ai suoi clienti adeguate garanzie per servizi ed assistenza di qualitŕ.</p>\n\t\t<p>Poi, nel 1998, la societŕ č stata scelta dall' American Express Travel Service, a rappresentare i propri interessi nelle cittŕ e paesi della zona (Puerto Piramides - Puerto Madryn - Trelew - Rawson - Gaiman - Dolavon) e nel gennaio del 2000 fu' designata \" Agenzia di franchigia\" fino al 2006, anno in cui, per decisione dei suoi soci, si svincola dalla rete di agenzie di franchigia \"American Express\".</p>\n\t\t</br>\n\t\t<p>En Diciembre de 2007, l`agenzia ha ricevuto il distintivo di compresso della qualitŕ turistica Argentine, associata all progetto de modelo del`approssimazione alla qualitŕ SCTE buone pratiche, dato per la Direzione della Gestione della Qualité Turistica dalla Segretaria de Turismo della Nazione.</p>",
+        "titulares": [
+          {
+            "label": "Breve rassegna",
+            "data": "nos",
+            "icon": "fa fa-info"
+          },
+          {
+            "label": "Le nostre sedi",
+            "data": "nos_oficinas",
+            "icon": "fa fa-building-o"
+          },
+          {
+            "label": "I nostre veicoli",
+            "data": "nos_vehiculos",
+            "icon": "fa fa-truck"
+          },
+          {
+            "label": "Officine meccaniche",
+            "data": "nos_talleres",
+            "icon": "fa fa-wrench"
+          }
+        ]
+      },
+      "nos_oficinas": {
+        "html": "<h1 class=\"azul\">Le nostre sedi</h1>\n\t\t<p>Nievemar Tours ha uffici nelle cittŕ di Trelew e Puerto Madryn con personale bilingue e guide turistiche disponibili in quasi tutte le lingue, offre ai clienti garanzie di servizio, la qualitŕ e la presenza.</p>\n\t\t<br>\n\t\t<div class=\"full\"  style=\"text-align: center;\">\n\t\t\t<img src=\"imagenes/trelew.jpg\" /><br>\n\t\t\t<pre>Italia 20 - Tel 54-280-4434114 /4435646 - Fax:54-280-4423624. Trelew, Argentina.</pre>\n\t\t\t<br>\n\t\t</div>"
+      },
+      "nos_vehiculos": {
+        "html": "<h1 class=\"azul\">Veicoli propri con equipaggiamento completo.</h1>\n\t\t<p>Č Nievemar veicoli adibiti al trasporto passeggeri. Attualmente, una grande flotta di veicoli con apparecchiature. Bus 45, 24, 19 e 14 posti, autovetture e veicoli 4x4.</p>\n\t\t<div class=\"full\"  style=\"text-align: center;\">\n\t\t\t<img src=\"imagenes/vehiculos.jpg\" /><br> <img src=\"imagenes/flota_colec.jpg\" />\t<br><img src=\"imagenes/flota_duster.jpg\" />\n\t\t</div>"
+      },
+      "nos_talleres": {
+        "html": "<h1 class=\"azul\">Officine meccaniche proprie </h1>\n\t\t<p>La societŕ ha il proprio atelier per la manutenzione dei veicoli e impianti di combustibile stesso.</p>\n\t\t<div class=\"full\"  style=\"text-align: center;\">\n\t\t\t<img src=\"imagenes/talleres.jpg\" />\n\t\t</div>"
+      },
+      "srv": {
+        "titulares": [
+          {
+            "label": "Forfaits touristiques",
+            "data": "srv",
+            "icon": "fa fa-gift"
+          },
+          {
+            "label": "Escursioni",
+            "data": "srv_excursiones",
+            "icon": "fa fa-globe"
+          },
+          {
+            "label": "Avvistamento Balene",
+            "data": "srv_avistaje",
+            "icon": "fa fa-camera-retro"
+          },
+          {
+            "label": "Alberghi",
+            "data": "srv_hoteles",
+            "icon": "fa fa-hospital-o"
+          },
+          {
+            "label": "Fauna",
+            "data": "srv_calendario",
+            "icon": "fa fa-calendar"
+          },
+          {
+            "label": "Landkarte von Chubut",
+            "data": "srv_mapas",
+            "icon": "fa fa-map-marker"
+          }
+        ],
+        "intro": "<h1 class=\"rojo\">Forfaits touristiques</h1>\n\t\t\t<p>Penisola Valdés - Puerto Piramides - Caleta Valdes - Isla de los Pajaros - Puerto Madryn - Playa Union - Puerto Rawson - Esquel - Parco Nazionale \"Los Alerces\" - Bariloche - El Calafate - Ghiacciaio Perito Moreno - Ushuaia - Parco Nazionale della Terra del Fuoco - Canale di Beagle - Museo del fin del mundo - Torres del Paine (Cile) - Puerto Natales (Cile) - Monte Fitz Roy - El Chalten - Viedma... Alberghi 2, 3, e 4 stelle: Ostelli, Pensioni e Fattorie. Trasferimenti Alloggi, Colazioni, Avvistamento balene, Orche, Delfini Scuri, Delfini di Commersonii Escursioni, Elefanti marini, Leoni marini, Pinguini, Passeggiate. </p>",
+        "paquetes": [
+          {
+            "id": "1",
+            "titulo": "Península Valdés #1",
+            "html": "<li>2 notti, alloggio nell' albergo prescelto, con prima colazione.</li>\n\t\t\t\t\t<li>Trasferimenti arrivo e partenza.</li>\n\t\t\t\t\t<li>Escursione dedicando l'intera giornata a visitare la Penisola Valdés </li>"
+          },
+          {
+            "id": "1",
+            "titulo": "Península Valdés #2",
+            "html": "<li>3 notti alloggio nell'albergo prescelto, con prima colazione.</li>\n\t\t\t\t\t<li>Trasferimento arrivo e partenza.</li>\n\t\t\t\t\t<li>Escursione dedicando l'intera giornata a visitare la Penisola Valdés.</li>\n\t\t\t\t\t<li>Escursione di mezza giornata visitando la pinguinera di Punta Tombo. </li>"
+          },
+          {
+            "id": "1",
+            "titulo": "Península Valdés #3",
+            "html": "<li>3 notti di alloggio nell'albergo prescelto, con prima colazione.</li>\n\t\t\t\t\t<li>Trasferimento arrivo e partenza.</li>\n\t\t\t\t\t<li>Escursione dedicando l'intera giornata a visitare la Penisola Valdés</li>\n\t\t\t\t\t<li>Escursione di mezza giornata visitando la pinguinera di Punta Tombo e la colonia gallese.</li>"
+          },
+          {
+            "id": "4",
+            "titulo": "Ornitólogos en Patagonia",
+            "html": "<h4>Giorno 1 Viedma</h4><p>Arrivo all'aeroporto di Viedma, trasferimento alla cena dell'hotel. </ p>\n\t\t\t\t\t<h4>Giorno 2 Viedma</h4><p>A partire di buon mattino al \"Caleta de los Loros\" la più alta concentrazione di Conuri del mondo (scavando pappagallo) sul nostro modo di vedere esempi di Inambú Petiso (di Darwin nothura) e Martinetas (eudromia Elegans), così diversi passeriformi e rapaci. </p>\n\t\t\t\t\t<h4>Giorno 3 Viedma - San Antonio Oeste - Peninsula Valdes</h4><p>Terreno di trasferimento con più ferma per osservare specie come il Cardinale Amarillo (Cardinale giallo), o sovrapposto (Austral Negrito) albergo o rimanere nella penisola di Valdes. </p>\n\t\t\t\t\t<h4>Giorno 4 Penisola Valdés </h4><p>Giornata dedicata alla scoperta della penisola di osservare una varietà di passeriformi diverse famiglie tipici della steppa patagonica come canastero Patagónico (Patagonia Asthenes) e costiere come il Petrel Gigante (Macronectes giganteus) o Shag Rock Thrush (roccia shag) </p>\n\t\t\t\t\t<h4>Giorno 5 Penisola di Valdés - Chubut Valle </h4><p>A partire dalla struttura o rimanere Southbound arrivato nella Valle di Chubut, in cui si individueranno almeno il 20 acquatico diverso Ornitologo Lagunas, nei pressi di Trelew. Sistemazione in Gaiman (fattoria o locanda). </p>\n\t\t\t\t\t<h4>Giorno 6 Gaiman</h4><p>Dirigendosi verso la diga Florentino Ameghino osservare varie specie di plateau della Patagonia per raggiungere Canyon Dam e rock argini ideali per vedere rapaci e spazzini. </p>\n\t\t\t\t\t<h4>Giorno 7 Gaiman - Punta Tombo - Aeroporto</h4><p>Partenza per Punta Tombo riserva più alta concentrazione di pinguini di Magellano Pinguino di Magellano () nel mondo. Nel pomeriggio trasferimento in aeroporto.</p>"
+          },
+          {
+            "id": "6",
+            "titulo": "Posada Los Mimbres - Colonia Galesa",
+            "html": "<h4>Giorno 1:</h4><p>Ricevimento all'aeroporto e trasferimento all'hotel prescelto nella città di Puerto Madryn o Trelew. Alloggio. </p>\n\t\t\t\t\t<h4>Giorno 2:</h4><p>Colazione. Escursione di un'intera giornata nella penisola di Valdés. Visitando Puerto Pirámide (navigazione opzionale), e l'Elefantería marina di Caleta Valdés o Punta Norte. Nel pomeriggio torniamo in hotel. </p>\n\t\t\t\t\t<h4>Giorno 3:</h4><p>Colazione. Gita di un giorno alla colonia di pinguini di Punta Tombo. Nel pomeriggio trasferimento a Gaiman (Colonia gallese) e sistemazione nella fattoria \"Posada Los Mimbres\". Pomeriggio libero. </p>\n\t\t\t\t\t<h4>Giorno 4:</h4><p>Colazione. Mattinata libera per sviluppare attività agricole. Trasferimento all'aeroporto. </p>"
+          },
+          {
+            "id": "7",
+            "titulo": "Península Valdés - Colonia Galesa",
+            "html": "<h4>Giorno 1:</h4><p>Ricezione all'aeroporto di Trelew e trasferimento all'hotel scelto. Alloggio.</p>\n\t\t\t\t\t<h4>Giorno 2:</h4><p>Colazione. Trasferimento alla penisola di Valdés, visitando l'istmo di Ameghino, l'Isla de los Pájaros e Pto. Pirámide (opzionale navigazione delle balene). Nel pomeriggio, sistemazione presso l'Estancia Rincón Chico o La Elvira. </p>\n\t\t\t\t\t<h4>Giorno 3:</h4><p>Colazione. Mattinata libera per svolgere attività sul campo. Nel pomeriggio escursione all'elefante marino di Caleta Valdés e ritorno a Pto. Madryn o Trelew. Sistemazione presso l'hotel prescelto. </p>\n\t\t\t\t\t<h4>Giorno 4:</h4><p>Colazione. Escursione a Punta Tombo e alla colonia di pinguini di Gaiman, alloggio in Posada los Mimbres (escursioni facoltative o lavori agricoli). </p>\n\t\t\t\t\t<h4>Giorno 5:</h4><p>Colazione. Tempo libero Trasferimento all'aeroporto di Trelew. </p>"
+          },
+          {
+            "id": "8",
+            "titulo": "Estancias de Península Valdés",
+            "html": "<h4>Giorno 1:</h4><p> Ricezione all'aeroporto di Trelew e trasferimento all'hotel scelto. Alloggio. </p>\n\t\t\t\t\t<h4>Giorno 2:</h4><p> Colazione. Trasferimento alla penisola di Valdés, visitando l'istmo di Ameghino, l'Isla de los Pájaros e Pto. Pirámide (opzionale navigazione delle balene). Nel pomeriggio trasferimento a Punta Delgada e sistemazione all'Estancia Rincon Chico. Cena inclusa. </p>\n\t\t\t\t\t<h4>Giorno 3:</h4><p> Colazione. Mattinata libera per svolgere attività sul campo. Nel pomeriggio escursione all'elefante marino di Caleta Valdés, trasferimento a Punta Norte e sistemazione in Estancia La Elvira. Cena inclusa. </p>\n\t\t\t\t\t<h4>Giorno 4:</h4><p> Colazione. Escursione di fauna, nel pomeriggio trasferimento a Puerto Madryn. Sistemazione presso l'hotel prescelto. </p>\n\t\t\t\t\t<h4>Giorno 5:</h4><p> Colazione. Trasferimento all'aeroporto di Trelew.</p>"
+          },
+          {
+            "id": "9",
+            "titulo": "Colonia Galesa",
+            "html": "<h4>Giorno 1:</h4><p>Ricezione all'aeroporto di Trelew e trasferimento all'hotel prescelto. Alloggio. </p>\n\t\t\t\t\t<h4>Giorno 2:</h4><p>Colazione. Escursione di un'intera giornata nella penisola di Valdés in visita a Puerto Pirámide (opzionale navigazione delle balene) e gli elefanti marini di Caleta Valdés o Punta Norte. </p>\n\t\t\t\t\t<h4>Giorno 3:</h4><p>Colazione. Escursione di intera giornata alla colonia di pinguini di Punta Tombo e Gaiman (gallese gallese), tour della città e alloggio presso l'Hosteria Gwesty Tywi, in un'antica casa in stile gallese. </p>\n\t\t\t\t\t<h4>Giorno 4:</h4><p>Colazione. Giornata libera per visitare il Parco Paleontologico di Bryn Gwyn o le cappelle gallesi della valle. </p>\n\t\t\t\t\t<h4>Giorno 5:</h4><p>Colazione. Trasferimento all'aeroporto di Trelew.</p>"
+          },
+          {
+            "id": "15",
+            "titulo": "Bahía Bustamante",
+            "html": "<h4>Giorno 1:</h4><p>Accoglienza agli occhi di Trelew e transfert a Bahia Bustamante, un piccolo villaggio di alguero. Unico al mondo, all'estremità settentrionale del Golfo di San Jorge, a 250 km da Porto di Trelew. sistemazione in caso con 2 camere doppie, completamente attrezzate, per 2 notti con pensione completa. </p>\n\t\t\t\t\t<h4>Giorno 2:</h4><p>Durante il soggiorno è possibile effettuare escursioni per vedere leoni marini, pinguini, avifauna in genere, inoltre includere un po 'di torrente malaspina avvistando diversi uccelli marini. È anche possibile visitare una foresta pietrificata, altre attività che si possono fare costiera pesca e mountain bike. </p>\n\t\t\t\t\t<h4>Giorno 3:</h4><p>Trasferimento all'aeroporto di Trelew.</p>"
+          },
+          {
+            "id": "16",
+            "titulo": "El Pedral",
+            "html": "<h4>Giorno 1:</h4><p>Ricezione all'aeroporto di Trelew e trasferimento a Estancia El Pedral molto vicino a Punta Ninfas, estremità meridionale del Golfo Nuevo, a 100 km da Trelew. Alloggio in lodge in camere doppie con bagno privato. Per 2 notti con pensione completa, incluse bevande e snack </p>\n\t\t\t\t\t<h4>Giorno 2:</h4><p>Durante il soggiorno è possibile effettuare escursioni per osservare le foche degli elefanti, gli uccelli in generale, include anche altre attività come la pesca costiera, la pesca a bordo, lo sci d'acqua, la mountain bike, il trekking, ecc. </p>\n\t\t\t\t\t<h4>Giorno 3:</h4><p>Trasferimento all'aeroporto di Trelew. </p>"
+          },
+          {
+            "id": "17",
+            "titulo": "Ruta 40 programma",
+            "html": "<pre>(6 giorni-5 notti)</pre>\n\t\t\t\t\t\t<h4>1° giorno:</h4><p>Partenza da Puerto Madryn o Trelew, fino al Pinguinera di Punta Tombo e proseguimento del viaggio verso Comodoro Rivadavia, o ricezione all'aeroporto Comodoro Rivadavia e trasferimento in hotel.</p>\n\t\t\t\t\t\t<h4>2° giorno:</h4><p>Partenza da Comodoro Rivadavia, in visita alla foresta pietrificata di Sarmiento vicino alla città di Sarmiento, proseguendo lungo la strada 40 fino a Perito Moreno e alloggio nel villaggio di Los Antiguos.</p>\n\t\t\t\t\t\t<h4>3° giorno:</h4><p>Partenza per la 41 dal Lago di Posadas, con una splendida vista sui fiumi Jainemeni e Zeballos e sull'imponente collina di San Lorenzo, arrivo e alloggio.</p>\n\t\t\t\t\t\t<h4>4° giorno:</h4><p>Partenza per il percorso 40 e visita al Canyon of the River Paintings e alle Cuevas de las Manos, patrimonio mondiale dell'UNESCO. Arrivo a La Angostura estancia e alloggio.</p>\n\t\t\t\t\t\t<h4>5° giorno:</h4><p>Partenza per la strada 40, confinante con il lago Cardiel, arrivo a El Chanten e trasferimento in hotel.</p>\n\t\t\t\t\t\t<h4>6° giorno:</h4><p>Partenza per El Calafate, confinante con il lago Viedma, e arrivo in hotel.</p>\n\t\t\t\t\t\t<pre>Nota: il giorno 3, per la rotta 41, dipenderà dallo stato del percorso, se è invalicabile, il percorso è fatto sulla rotta 40, visitando Cuevas de las Manos, e lascerà l'Oro River Gorge per il quarto giorno.</pre>\n\t\t\t\t\t\t<p>I servizi privati con autista guida spagnolo, non includono i biglietti per riserve naturali e parchi.</p>\n\t\t\t\t\t\t<h4>Hoteles</h4>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>Comodoro Rivadavia: Hotel Austral</li>\n\t\t\t\t\t\t\t<li>Los Antiguos: Hostería Antigua Patagonia</li>\n\t\t\t\t\t\t\t<li>Lago Posadas: Hostería La Posada del Posadas</li>\n\t\t\t\t\t\t\t<li>Gobernador Gregores: Estancia la Angostura</li>\n\t\t\t\t\t\t\t<li>El Chaltén: Hostería Casa de Piedra</li>\n\t\t\t\t\t\t</ul>"
+          },
+          {
+            "id": "18",
+            "titulo": "Ruta 3 Sud programma",
+            "html": "<h4>Giorno 1:</h4><p>Partenza da Puerto Madryn o Trelew, fino a Punta Tombo Pinguinera e proseguimento del viaggio verso Comodoro Rivadavia, o Ricezione all'aeroporto Comodoro Rivadavia e trasferimento in hotel . (1ngt) </p>\n\t\t\t\t\t\t<h4>Giorno 2:</h4><p>Partenza per Puerto Deseado e pernottamento in hotel (1 ngt). Navigazione pomeridiana facoltativa attraverso la Ría Deseado.</p>\n\t\t\t\t\t\t<h4>Giorno 3:</h4><p>Partenza per la foresta Petrificado Jaramillo, proseguendo verso Puerto San Julián. Alloggio (1 ngt).</p>\n\t\t\t\t\t\t<h4>Giorno 4:</h4><p>Partenza per il Parco Nazionale di Monte León, visita della colonia di pinguini e della lobería marina. Alloggio presso l'Estancia Monte León o Isla Pavón.</p>\n\t\t\t\t\t\t<h4>Giorno 5:</h4><p>Partenza per El Calafate.</p>\n\t\t\t\t\t\t<pre> I servizi privati con autista guida spagnolo, non includono i biglietti per riserve naturali e parchi.</pre>\n\t\t\t\t\t\t<h4>Hoteles</h4>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>Comodoro Rivadavia: Hotel Austral</li>\n\t\t\t\t\t\t\t<li>Los Antiguos: Hostería Antigua Patagonia</li>\n\t\t\t\t\t\t\t<li>Lago Posadas: Hostería La Posada del Posadas</li>\n\t\t\t\t\t\t\t<li>Gobernador Gregores: Estancia la Angostura</li>\n\t\t\t\t\t\t\t<li>El Chaltén: Hostería Casa de Piedra</li>\n\t\t\t\t\t\t</ul>"
+          }
+        ]
+      },
+      "srv_avistaje": {
+        "html": "<h1 class=\"rojo\">Avvistamento Balene</h1>\n\t\t\t<h4>Balena Franca</h4>\n\t\t\t<p>La navigazione per l'avvistamento di Balena Franca, parte da Puerto Piramide nella Penisola Valdés, le imbarcazioni portano a bordo un massimo di 50 passeggeri. Si forniscono salvagenti e mantelli impermeabili. La durata della navigazione dipenderŕ dalla distanza in cui si trovino le balene.</p>\n\t\t\t<pre>Normalmente quest'escursione non supera 1: 30 - 2 ore.</pre>\n\t\t\t<h4>Delfini Di Commersonii</h4>\n\t\t\t<p>La navigazione per l'avvistamento dei delfini di Commersonii, parte da Puerto Rawson, su imbarcazioni con un massimo di 15 passeggeri. Si forniscono salvagenti e mantelli impermeabili.\n\t\t\t<pre>La durata della navigazione non supera 1 ora.</pre>"
+      },
+      "srv_excursiones": {
+        "html": "<div id=\"showhide\">\n<h1><i class=\"fa fa-arrows-alt\"></i> Tabla Excursiones</h1>\n<div>\n<p>\n<table width=\"100%\" border=\"0\">\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>EXCURSION </p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>DESDE: </p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>SALE </p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>REGRESA</p></td>\n  </tr>\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>A Península Valdés</p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>Trelew </p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>7:15 hs.</p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>20:00 hs.</p></td>\n  </tr>\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>&nbsp;</p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>8:30 hs.</p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>19:00 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>A Punta Tombo</p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>Puerto Madryn </p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>8:00 hs.</p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>18:30 hs.</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn </p></td>\n    <td class=\"cpo\"><p>8:00 hs.</p></td>\n    <td class=\"cpo\"><p>15:30 hs. Apto. Trelew</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>9:15 hs. </p></td>\n    <td class=\"cpo\"><p>15:30 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Colonia Galesa</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>14:30 hs.</p></td>\n    <td class=\"cpo\"><p>19:00 hs.</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>13:30 hs.</p></td>\n    <td class=\"cpo\"><p>20:00 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>Bosque Petrificado con Dique Ameghino</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>8:00 hs.</p></td>\n    <td class=\"cpo\"><p>17:30 hs.</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>9:00 hs.</p></td>\n    <td class=\"cpo\"><p>16:30 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Península Valdés con Pernocte</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>7:15 hs.</p></td>\n    <td class=\"cpo\"><p>20:00 hs. (día Sig.)</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>8:30 hs.</p></td>\n    <td class=\"cpo\"><p>19:00 hs. (día Sig.)</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Navegación Tonina Overa (Delfin)</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>Consultar Mareas</p></td>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>Consultar Mareas</p></td>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Punta Ninfas</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>8:30hs</p></td>\n    <td class=\"cpo\"><p>17:00hs</p></td>\n  </tr>\n  <tr>\n    <td colspan=\"4\" valign=\"top\"><p><em>Navegación de avistaje de Ballenas Franca , desde Puerto Pirámides, sale cuando arriba la excursión.</em></p></td>\n  </tr>\n</table>\n</p>\n</div>\n</div>"
+      },
+      "srv_hoteles": {
+        "html": "<h1 class=\"rojo\">Alberghi</h1>\n\t\t\t<p>Alberghi 2, 3, 4 e 5 stelle, Osterie, Locande e Fattorie, ecco qui alcuni stabilimenti.</p>"
+      },
+      "srv_calendario": {
+        "html": "<h1 class=\"rojo\">Fauna Períodi di permanenza </h1>\n\t\t\t<p>Questa tabella riassume la principale fauna esistente nelle riserve di Punta Tombo e Penisola Valdés ed é una fonte di informazione affinché gli agenti di viaggio possano offrire i migliori servizi turistici. </p>\n\t\t\t<img src=\"imagenes/calendario.gif\" />\n\t\t\t<h4>Fauna Permanente</h4>\n\t\t\t<p>Nandu, Guanachi, Maras, Lepri, Martinetas, Volpi, Puzzole, ed una gran varietŕ di uccelli. </p>\n\t\t\t<img src=\"imagenes/faunaestable.jpg\" />"
+      },
+      "srv_mapas": {
+        "html": "<h1 class=\"rojo\">Mappe di Chubut</h1>\n\t\t\t<h4>Strade principali e strade provinciali</h4>\n\t\t\t<img src=\"imagenes/mapas/principales-rutas-caminos.gif\" />\n\t\t\t<hr>\n\t\t\t<h4>Area di concentrazione Ballena Franca Australe</h4>\n\t\t\t<img src=\"imagenes/mapas/peninsula-ballenas.gif\" />\n\t\t\t<hr>\n\t\t\t<h4>Punta Tombo - Cabo Dos Bahias</h4>\n\t\t\t<img src=\"imagenes/mapas/areas-protegidas-cdb-pt.gif\" />\n\t\t\t<hr>\n\t\t\t<h4>Costa Atlântica - Zona di Pesca</h4>\n\t\t\t<img src=\"imagenes/mapas/zona-pesca-atlantica.gif\" />\n\t\t\t<hr>\n\t\t\t<h4>Percorso Bosco Pietrificato di Sarmiento</h4>\n\t\t\t<img src=\"imagenes/mapas/bosque-recorridos.gif\" />\n\t\t\t<hr>\n\t\t\t<h4>Regione Nordest del Chubut</h4>\n\t\t\t<img src=\"imagenes/mapas/comarca-noreste.gif\" />"
+      },
+      "cnt": {
+        "html": "<h1 class=\"verde\">Contact</h1>\n\t\t\t<p>Si prega di compilare il modulo qui sotto e vi risponderemo il piů presto possibile.</p>"
+      }
+    }
+  },
+  "deutsch": {
+    "sections": {
+      "idx": {
+        "html": "<h1>Der beste touristische Service... </h1>\n\t\t\t<p>Nievemar Tours S.R.L. lädt Sie ein, die hervorragendsten Orte des SüdPatagonia zu kennen, die vom nationalen und internationalen Interesse wie der Halbinsel Valdes und Punta Tombo erklärt werden. Es ist möglich, interessante Touren zu bilden, die Trelew, Puerto Madryn, Rawson, Playa Union, Puerto Piramide, Dique Florentino Ameghino, Gaiman die Waliser Kolonie, Gletscher Perito Moreno und die südlichste Stadt der Welt integrieren: Ushuaia. </p> <br> <h4>Trelew</h4> <p>Italia 20 - Tel 54-280-4434114 /4435646 - Fax:54-280-4423624</p>\n\t\t\t<p>C.P. 9100 Trelew, Argentina.</p>"
+      },
+      "nos": {
+        "html": "<h1 class=\"azul\">Über uns. NIEVEMAR TOURS</h1>\n\t\t\t<p>Nievemar Tours S.R.L., wurden im Juni 1983 gegründet. Anfangs war es eine Familie Gesellschaft zwischen Jose Pedro Miranda und Miguel Engel Miranda, dann seit 1986 ist es eine Begrenztverbindlichkeit Firma. Vom Anfang brachte die Agentur Flugscheine innerhalb und außerhalb des Landes in den Handel. Von 1984 fing sie als ankommender Touroperator in dieser Zone an und bot eine breite Strecke der Hotels in Puerto Madryn und in Trelew sowie Transport und Exkursionen Seelöwen und Seelefanten ´reserves in der Halbinsel Valdes, die aufpassenden Punta Tombo´s Penguinkolonie, die Ameghino Verdammung, die versteinerten Hölzer an, die südlichen rechten whales´s, etc.</p>\n\t\t\t<p>Am gleichen Jahr empfing die Agentur die Bescheinigung als I.A.T.A. Reisebüro.</p>\n\t\t\t<p>Entlang den Jahren erreichte das Unternehmen Träger für das Transportieren der Passagiere. Heutzutage hat es eine wichtige Flotte Träger fast 0 Kilometer, ganz vollausgebaut. </p>\n\t\t\t<p>Die einzigen zwei Partner dieser Agentur (Vater und Sohn) haben unterschiedliche Rollen in der Teilhaberschaft. Miguel, mit einer vierjährlichen´s Erfahrung in Aerolineas Argentinas, behandelt das kommerzielle und wirksame Teil, während Jose Pedro, der in der Vergangenheit ein Repräsentant von Marken wie Peugeot, Citroen und Mercedes Benz war, seine Erfahrung in der Garage gibt, die durch dieses Unternehmen besessen wird. </p>\n\t\t\t<p>In dieser Garage wird die Wartung der Träger durchgeführt. </p>\n\t\t\t<p>Gleichzeitig die zwei Büros aufgestellt in Puerto Madryn und Trelew, mit zweisprachigem Personal und qualifizierte touristische Führer, Garantieservices der Qualität und Anwesenheit. Zusätzlich Nievemar wurden Touren 1998 S.R.L durch American Express Spielraumservice beschlossen, um ein Repräsentant seiner Interessen an den Städte und an den Umlagerungen von Puerto Madryn, Trelew, Rawson, Gaiman, Dolavon und von Puerto Piramide zu sein. </p>\n\t\t\t<p>Später im Januar 2000, nannte American Express Spielraum-Service Nievemar Tours als sein franchised, kann an von 2006, für owners´s Entscheidung,  </p>\n\t\t\t<p>Nievemar Tours wird freigegeben von American Express, das Netz genehmigt. </p>\n\t\t\t<br>\n\t\t\t<p>Im Dezember 2007 hat den unverwechselbaren Engagement für die Qualität Tourist Argentinien erhaltet im Zusammenhang mit dem Projekt Model Approach to Quality Good Practices, die von der Direktion für Qualitätsmanagement Tourist Generalsekretär für Tourismus der Nation ermitteln wurde. </p>",
+        "titulares": [
+          {
+            "label": "Über uns",
+            "data": "nos",
+            "icon": "fa fa-info"
+          },
+          {
+            "label": "Unsere Agentur. Büros",
+            "data": "nos_oficinas",
+            "icon": "fa fa-building-o"
+          },
+          {
+            "label": "Unsere Fahrzeuge",
+            "data": "nos_vehiculos",
+            "icon": "fa fa-truck"
+          },
+          {
+            "label": "Wartung Garage",
+            "data": "nos_talleres",
+            "icon": "fa fa-wrench"
+          }
+        ]
+      },
+      "nos_oficinas": {
+        "html": "<h1 class=\"azul\">Unsere Agentur. Büros </j1>\n\t\t\t<p>Nievemar Tours ist mit Niederlassungen in den Städten von Trelew und Puerto Madryn mit zweisprachige Mitarbeiter und Reiseleiter in fast allen Sprachen, bietet seinen Kunden Service Assurance, Qualität und Präsenz. </p>\n\t\t\t<br>\n\t\t\t<div class=\"full\"  style=\"text-align: center;\">\n\t\t\t\t<img src=\"imagenes/trelew.jpg\" /><br>\n\t\t\t\t<pre>Italia 20 - Tel 54-280-4434114 /4435646 - Fax:54-280-4423624. Trelew, Argentina.</pre>\n\t\t\t\t<br>\n\t\t\t</div>"
+      },
+      "nos_vehiculos": {
+        "html": "<h1 class=\"azul\">Unsere Fahrzeuge </h1>\n\t\t\t<p>Sie Nievemar Fahrzeuge. Derzeit ist eine große Flotte von Fahrzeugen mit der Ausrüstung. Bus 45, 24, 19 und 14 Sitze, PKW und 4x4 Fahrzeuge. </p>\n\t\t\t<div class=\"full\"  style=\"text-align: center;\">\n\t\t\t\t<img src=\"imagenes/vehiculos.jpg\" /><br> <img src=\"imagenes/flota_colec.jpg\" />\t<br><img src=\"imagenes/flota_duster.jpg\" />\n\t\t\t</div>"
+      },
+      "nos_talleres": {
+        "html": "<h1 class=\"azul\">Wartung Garage </h1>\n\t\t\t<p>Das Unternehmen hat seinen eigenen Werkstätten für die Instandhaltung der Fahrzeuge und Treibstoff sich. </p>\n\t\t\t<div class=\"full\"  style=\"text-align: center;\">\n\t\t\t\t<img src=\"imagenes/talleres.jpg\" />\n\t\t\t</div>"
+      },
+      "srv": {
+        "titulares": [
+          {
+            "label": "Touristische Pakete wählen",
+            "data": "srv",
+            "icon": "fa fa-gift"
+          },
+          {
+            "label": "Ausflüge",
+            "data": "srv_excursiones",
+            "icon": "fa fa-globe"
+          },
+          {
+            "label": "Walschiffausfahrten",
+            "data": "srv_avistaje",
+            "icon": "fa fa-camera-retro"
+          },
+          {
+            "label": "Hotels",
+            "data": "srv_hoteles",
+            "icon": "fa fa-hospital-o"
+          },
+          {
+            "label": "Fauna",
+            "data": "srv_calendario",
+            "icon": "fa fa-calendar"
+          },
+          {
+            "label": "Landkarte von Chubut",
+            "data": "srv_mapas",
+            "icon": "fa fa-map-marker"
+          }
+        ],
+        "intro": "<h1 class=\"rojo\">Touristische Pakete wählen</h1>\n\t\t\t\t<p>Península Valdés, Puerto Pirámides, Caleta Valdés - Isla de Los Pájaros, Puerto Madryn, Punta Tombo, Valle Inferior Del Río Chubut, Gaiman (W), Playa Unión, Puerto Rawson, Esquel, Parque Nacional Los Alerces, Bariloche, EL Calafate, Glaciar Perito Moreno, Canal de Beagle, Museo Del Fin del Mundo, Torres Del Paine (Chile), Puerto Natales (Chile), Monte Fitz Roy, EL Chalten, Lago Viedma.</p>\n\t\t\t\t<p>Hotels 2, 3 y 4 Sterne, Hosterías, Posadas y Estancias. Transfers, Unterkunft, Frustückt, Wahleschiffausfahrten, Orcas, Delfine, Toninas, Ausflüge, Elefantes Marinos, Lobos Marinos, Pingüinos, Trekking...</p>",
+        "paquetes": [
+          {
+            "id": "1",
+            "titulo": "Península Valdés #1",
+            "html": "<li>2 notti, alloggio nell' albergo prescelto, con prima colazione.</li>\n\t\t\t\t\t<li>Trasferimenti arrivo e partenza.</li>\n\t\t\t\t\t<li>Escursione dedicando l'intera giornata a visitare la Penisola Valdés </li>"
+          },
+          {
+            "id": "1",
+            "titulo": "Península Valdés #2",
+            "html": "<li>Tręs noites de hospedagem em hotel selecionado, com café da manhă.</li>\n\t\t\t\t\t<li>Transporte na chegada e na saída.<li>\n\t\t\t\t\t<br>\n\t\t\t\t\t<li>Excursăo o dia inteiro na Península de Valdés.</li>\n\t\t\t\t\t<li>Excursăo conhecer (\"a pinguinera\": habitat dos pinguins) de Punta Tombo.</li>"
+          },
+          {
+            "id": "1",
+            "titulo": "Península Valdés #3",
+            "html": "<li>Tręs noites de hospedagem en hotel selecionado, com café da manhă.</li>\n\t\t\t\t\t<li>Transporte na chegada e na saída.</li>\n\t\t\t\t\t<li>Excursăo o dia inteiro na Península de Valdés.</li>\n\t\t\t\t\t<li>Excursăo o dia inteiro para conhecer os pinguins de Punta Tombo Colônia Galesa.</li>"
+          },
+          {
+            "id": "4",
+            "titulo": "Ornitólogos en Patagonia",
+            "html": "<h4>Dia 1 Viedma</h4><p>Chegada ao aeroporto de Viedma, traslado ao jantar do hotel.</p>\n\t\t\t\t\t<h4>Dia 2 Viedma</h4><p>Começando no início da manhã para o \"Caleta de los Loros\" a maior concentração de Buraqueira Papagaios do mundo (escavando papagaio) sobre a forma como vemos exemplos de Inambú Petiso (de Darwin Nothura) e Martinetas (Eudromia Elegans), bem vários passeriformes e aves de rapina. </p>\n\t\t\t\t\t<h4>Dia 3 Viedma - San Antonio Oeste - Península Valdés </h4><p>Transferência de terras com várias paradas para observar espécies como o Cardeal Amarillo (cardeal amarelo) ou sobrepor (colegial) Hotel ou permanecer na Península Valdes. </p>\n\t\t\t\t\t<h4>Dia 4 da Península Valdés </h4><p>Dia dedicado a explorar a península de observar uma variedade de passeriformes várias famílias típicas da estepe patagônica como Canastero Patagónico (Patagônia Asthenes) e costeiro como o Petrel Gigante (Macronectes giganteus) ou Shag Rock Thrush (shag rock) </p>\n\t\t\t\t\t<h4>Dia 5 Península Valdés - Chubut vale </h4><p>A partir do hotel ou ficar Southbound chegou ao Vale Chubut, onde iremos identificar pelo menos 20 aquático diferente em Ornitólogo Lagunas, perto de Trelew. Alojamento em Gaiman (fazenda ou pousada). </p>\n\t\t\t\t\t<h4>Dia 6 Gaiman </h4><p>Posição para a barragem Florentino Ameghino observando diversas espécies do planalto patagônico para alcançar represa da garganta e rocha aterros ideais para ver rapina e sequestrantes. </p>\n\t\t\t\t\t<h4>Dia 7 Gaiman - Punta Tombo - Aeroporto </h4><p>Partida para Punta Tombo reserva maior concentração de pinguins (Magellanic Pinguim) em todo o mundo. À tarde, traslado ao aeroporto. </p>"
+          },
+          {
+            "id": "6",
+            "titulo": "Posada Los Mimbres - Colonia Galesa",
+            "html": "<h4>Dia 1:</h4><p>Recepçăo no aeroporto e transporte até hotel reservado na cidade de Puerto Madryn ou Trelew. Hospedagem.</p>\n\t\t\t\t\t<h4>Dia 2:</h4><p>Café da manhă, excursăo o dia inteiro ŕ Península de Valdés. Visita a Porto Pirâmide (navegaçăo opcional) e a Elefanteria marinha de Caleta Valdés ou Punta Norte. Pela tarde regressamos ao hotel.</p>\n\t\t\t\t\t<h4>Dia 3:</h4><p>Café da manhă. Excursăo o dia inteiro ŕ Pinguinera de Punta Tombo. Pela tarde passeio em Gaiman (Colonia Galesa) e hospedagem na chácara e Pousada Los Mimbres. Tarde livre.</p>\n\t\t\t\t\t<h4>Dia 4:</h4><p>Café da manhă. Manhă livre para desenvolver atividades de campo. Transporte até o aeroporto.</p>"
+          },
+          {
+            "id": "7",
+            "titulo": "Península Valdés - Colonia Galesa",
+            "html": "<h4>Dia 1:</h4><p>Recepçăo no aeroporto de Trelew e transporte até o hotel reservado. Hospedagem.</p>\n\t\t\t\t\t<h4>Dia 2:</h4><p>Café da manhă, Passeio pela Península de Valdés, visitando o Istmo Ameguino, Isla de los pájaros (Ilha dos Pássaros) e Porto Piramide (opcional: navegaçăo até as baleias). Pela tarde hospedagem na Estância Rincón Chico ou La Elvira.</p>\n\t\t\t\t\t<h4>Dia 3:</h4><p>Café da manhă. Manhă livre para desenvolver atividades num passeio rural. Pela tarde excursăo a Elefanteria Marinha de Caleta Valdés e retorno a Porto Madryn ou Trelew. Hospedagem em hotem escohido.</p>\n\t\t\t\t\t<h4>Dia 4:</h4><p>Café da manhă. Excursăo a Pinguinera de Punta Tombo e Gaiman, hospedagem na Pousada Los Minbres (opcional: trilhas na mata ou turismo rural.</p>\n\t\t\t\t\t<h4>Dia 5:</h4><p>Café da manhă. Tempo livre. Transporte até o aeroporto de Trelew.</p>"
+          },
+          {
+            "id": "8",
+            "titulo": "Estancias de Península Valdés",
+            "html": "<h4>Dia 1:</h4><p>Recepçăo no aeroporto da Trelew e transporte ao hotel reservado. Hospedagem.</p>\n\t\t\t\t\t<h4>Dia 2:</h4><p>Café da manhă, Passeio pela Península de Valdés, visitando o Istmo Ameguino, a Ilha dos Pássaros e Porto Pirâmide (opcional: navegaçăo baleias). Pela tarde passeio a Punta Delgada e hospedagem na Estância Rincón Chico. O jantar está incluído</p>\n\t\t\t\t\t<h4>Dia 3:</h4><p>Café da manhă. Manhă livre para turismo rural</p><p>Pela tarde excuçăo a elefanteria marinha de Caleta Valdés, transporte a Punta Norte e alojamento na Estância - A Elvira. O jantar está incluído.</p>\n\t\t\t\t\t<h4>Dia 4:</h4><p>Café da manhă. Excursăo para conhecer a fauna, ŕ tarde passeio a Puerto Madryn. Alojamento no hotel reservado.</p>\n\t\t\t\t\t<h4>Dia 5:</h4><p>Café da manhă. Translado para o aeroporto de Trelew.</p>"
+          },
+          {
+            "id": "9",
+            "titulo": "Colônia Galesa",
+            "html": "<h4>Día 1:</h4><p>Recepçăo no aeroporto de Trelew e translado ao Hotel reservado. Alojamento.</p>\n\t\t\t\t\t<h4>Día 2:</h4><p>Café da manhă. Excursăo o dia inteiro ŕ Penísula de Valdés, visitando Puerto Pirâmide (opcional ver as baleias) e a elefanteria marina de Caleta Valdés, ou Punta Tombo.</p>\n\t\t\t\t\t<h4>Día 3:</h4><p>Café da manhă. Excursăo o dia inteiro ŕ pinguinera de Punta Tombo e Gaiman (Colônia Galesa), City Tour e alojamento na Hosteria Gwesty Tywi, ambientada numa antiga casa de estilo galęs.</p>\n\t\t\t\t\t<h4>Día 4:</h4><p>Café da manhă. O dia livre para visitar o parque Paleontológico Bryn Gwyn, ou as capelas galesas do vale.</p>\n\t\t\t\t\t<h4>Día 5:</h4><p>Café da manhă. Transporte para o aeroporto de Trelew.</p>"
+          },
+          {
+            "id": "15",
+            "titulo": "Bahía Bustamante",
+            "html": "<h4>Dia 1:</h4><p>Recepçăo no aeroporto de Trelew e transporte até Bahia Bustamanate, um pequeno povoado Alguero. Único no mundo situado no extremo norte do golfo Săo Jorje, a 250 km do aeroporto de Trelew. Haverá alojamento em casas com dois quartos, com duas camas cada, totalmente equipadas, por duas noites com pensăo completa.</p>\n\t\t\t\t\t<h4>Dia 2:</h4><p>Durante esta estadia poder-se-á realizar excursőes para o habitat dos lobos marinhos, pinguins, conhecer a fauna avícula em geral, inclui uma navegaçăo pela Caleta Malaspina, de onde se pode avistar diferentes aves marinhas. Também se pode visitar um bosque petrificado, entre outras atividades que se pode realizar é a pesca costeira e Montain Bike.</p>\n\t\t\t\t\t<h4>Día 3:</h4><p>Transporte ao aeroporto de Trelew</p>"
+          },
+          {
+            "id": "16",
+            "titulo": "El Pedral",
+            "html": "<h4>Día 1:</h4><p>Recepçăo no aeroporto de Trelew e transporte até a Estância El Pedral, muito próxima de Punta Ninfas, extremo sul do Golfo Novo, a 100 km (do Apto) de Trelew. Hospedagem em Lodge de quartos-suítes com banheiro privado. Por duas noites com pensăo completa, incluindo bebida e lanches.</p>\n\t\t\t\t\t<h4>Día 2:</h4><p>Durante esta estadia poder-se-ăo realizar excursőes ao habitat de elefantes marinhos, conhecer as aves e a fauna em geral, incluindo outras atividades como: pesca costeira, pesca com embarcaçăo, ski aquático, montain bike, trekking, etc.</p>\n\t\t\t\t\t<h4>Día 3:</h4><p>Transporte ao aeroporto de Trelew.</p>"
+          },
+          {
+            "id": "17",
+            "titulo": "Route 40 Programm",
+            "html": "<h4>Tag 1:</h4><p>Abfahrt von Puerto Madryn oder Trelew, zum Pinguin von Punta Tombo und Weiterfahrt nach Comodoro Rivadavia, oder Empfang am Flughafen Comodoro Rivadavia und Transfer zum Hotel.</p>\n\t\t\t\t\t<h4>Tag 2:</h4><p>Abfahrt von Comodoro Rivadavia, Besuch des versteinerten Sarmiento-Waldes in der Nähe der Stadt Sarmiento, Weiterfahrt auf der Route 40 nach Perito Moreno und Übernachtung im Dorf Los Antiguos.</p>\n\t\t\t\t\t<h4>Tag 3:</h4><p>Abfahrt auf der Route 41 zum Posadas-See, mit wunderschönen Ausblicken auf die Flüsse Jainemeni und Zeballos und den imposanten Hügel San Lorenzo, Ankunft und Unterkunft.</p>\n\t\t\t\t\t<h4>Tag 4:</h4><p>Abfahrt zur Route 40 und Besuch der Schlucht des Flusses Malereien und der Cuevas de las Manos, ein UNESCO-Weltkulturerbe. Ankunft in La Angostura Estancia und Unterkunft.</p>\n\t\t\t\t\t<h4>Tag 5:</h4><p>Abfahrt auf der Route 40, am Lake Cardiel, Ankunft in El Chanten und Transfer zum Hotel.</p>\n\t\t\t\t\t<h4>Tag 6:</h4><p>Abfahrt nach El Calafate, am See Viedma, und Ankunft im Hotel.</p>\n\t\t\t\t\t<pre>Hinweis: Tag 3, auf der Route 41, hängt vom Zustand der Route ab, wenn es unpassierbar ist, wird die Route über die Route 40 gemacht, die Cuevas de las Manos besucht und die Oro River Gorge für Tag 4 verlässt.</pre>\n\t\t\t\t\t<p>Private Dienstleistungen mit spanischem Führer, beinhaltet keine Tickets für Wildreservate und Parks</p>\n\t\t\t\t\t<h4>Hoteles</h4>\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>Comodoro Rivadavia: Hotel Austral</li>\n\t\t\t\t\t\t<li>Los Antiguos: Hostería Antigua Patagonia</li>\n\t\t\t\t\t\t<li>Lago Posadas: Hostería La Posada del Posadas</li>\n\t\t\t\t\t\t<li>Gobernador Gregores: Estancia la Angostura</li>\n\t\t\t\t\t\t<li>El Chaltén: Hostería Casa de Piedra</li>\n\t\t\t\t\t</ul>"
+          },
+          {
+            "id": "18",
+            "titulo": "Route 3 South Programm",
+            "html": "<h4>Tag 1:</h4><p>Abfahrt von Puerto Madryn oder Trelew, zur Punta Tombo Pinguinera und Weiterfahrt nach Comodoro Rivadavia oder Empfang am Flughafen Comodoro Rivadavia und Transfer zum Hotel . (1ng)</p>\n\t\t\t\t\t\t <h4>Tag 2:</h4><p>Abfahrt nach Puerto Deseado und Übernachtung im Hotel (1 Nacht). Optional Nachmittag Navigation durch die Ría Deseado. </p>\n\t\t\t\t\t\t <h4>Tag 3:</h4><p>Abfahrt zum Wald von Petrificado Jaramillo, weiter nach Puerto San Julián. Unterkunft (1 Nacht). </p>\n\t\t\t\t\t\t <h4>Tag 4:</h4><p>Abfahrt in den Nationalpark Monte León, Besuch der Pinguinkolonie und der Marine Lobería. Unterkunft in Estancia Monte León oder Isla Pavón. </p>\n\t\t\t\t\t\t <h4>Tag 5:</h4><p>Abfahrt nach El Calafate.</p>\n\t\t\t\t\t\t <pre> Private Dienstleistungen mit spanischem Führer, nicht enthalten Tickets für Wildreservate und Parks. </pre>\n\t\t\t\t\t\t <h4>Hotels</h4>\n\t\t \t\t\t\t\t<ul>\n\t\t \t\t\t\t\t\t<li>Comodoro Rivadavia: Hotel Austral</li>\n\t\t \t\t\t\t\t\t<li>Puerto Deseado: Hotel Los Acantilados</li>\n\t\t \t\t\t\t\t\t<li>Bahía San Julian: Hotel Bahia</li>\n\t\t \t\t\t\t\t\t<li>Monte León o Isla Pavón</li>\n\t\t \t\t\t\t\t</ul>"
+          }
+        ]
+      },
+      "srv_avistaje": {
+        "html": "<h1 class=\"rojo\">Walschiffausfahrten</h1>\n\t\t\t<h4>Wal-Aufpassenden</h4>\n\t\t\t<p>Die Wal-aufpassenden Touren, der südlichen rechten Wale, sind von Puerto Piramide in der Halbinsel Valdes und sie werden in den Motorboots ohne mehr als 50 Passagiere gebildet. Schwimmwesten und Kape werden zur Verfügung gestellt.</p>\n\t\t\t<h4>Tonina Overa</h4>\n\t\t\t<p>Die Touren dauern 1 Stunde und eine Hälfte und 2 Stunden die Bootausfahrten zur Toninas Overa, Blättern von Puerto Rawson in Schiffen von 15 Passagieren durchgeführt. Es schließt Wasserabnutzung und Schwimmwesten mit ein. </p>\n\t\t\t<pre>Der Ausflug dauert 1 Stunde.</pre>"
+      },
+      "srv_excursiones": {
+        "html": "<div id=\"showhide\">\n<h1><i class=\"fa fa-arrows-alt\"></i> Tabla Excursiones</h1>\n<div>\n<p>\n<table width=\"100%\" border=\"0\">\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>EXCURSION </p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>DESDE: </p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>SALE </p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>REGRESA</p></td>\n  </tr>\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>A Península Valdés</p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>Trelew </p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>7:15 hs.</p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>20:00 hs.</p></td>\n  </tr>\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>&nbsp;</p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>8:30 hs.</p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>19:00 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td width=\"33%\" valign=\"top\" class=\"cpo\"><p>A Punta Tombo</p></td>\n    <td width=\"23%\" valign=\"top\" class=\"cpo\"><p>Puerto Madryn </p></td>\n    <td width=\"16%\" valign=\"top\" class=\"cpo\"><p>8:00 hs.</p></td>\n    <td width=\"28%\" valign=\"top\" class=\"cpo\"><p>18:30 hs.</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn </p></td>\n    <td class=\"cpo\"><p>8:00 hs.</p></td>\n    <td class=\"cpo\"><p>15:30 hs. Apto. Trelew</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>9:15 hs. </p></td>\n    <td class=\"cpo\"><p>15:30 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Colonia Galesa</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>14:30 hs.</p></td>\n    <td class=\"cpo\"><p>19:00 hs.</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>13:30 hs.</p></td>\n    <td class=\"cpo\"><p>20:00 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>Bosque Petrificado con Dique Ameghino</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>8:00 hs.</p></td>\n    <td class=\"cpo\"><p>17:30 hs.</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>9:00 hs.</p></td>\n    <td class=\"cpo\"><p>16:30 hs.</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Península Valdés con Pernocte</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>7:15 hs.</p></td>\n    <td class=\"cpo\"><p>20:00 hs. (día Sig.)</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>8:30 hs.</p></td>\n    <td class=\"cpo\"><p>19:00 hs. (día Sig.)</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Navegación Tonina Overa (Delfin)</p></td>\n    <td class=\"cpo\"><p>Trelew</p></td>\n    <td class=\"cpo\"><p>Consultar Mareas</p></td>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n  </tr>\n  <tr>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>Consultar Mareas</p></td>\n    <td class=\"cpo\"><p>&nbsp;</p></td>\n  </tr>\n  <tr><td colspan=\"4\" class=\"cpo\"><hr/></td></tr>\n  <tr>\n    <td class=\"cpo\"><p>A Punta Ninfas</p></td>\n    <td class=\"cpo\"><p>Puerto Madryn</p></td>\n    <td class=\"cpo\"><p>8:30hs</p></td>\n    <td class=\"cpo\"><p>17:00hs</p></td>\n  </tr>\n  <tr>\n    <td colspan=\"4\" valign=\"top\"><p><em>Navegación de avistaje de Ballenas Franca , desde Puerto Pirámides, sale cuando arriba la excursión.</em></p></td>\n  </tr>\n</table>\n</p>\n</div>\n</div>"
+      },
+      "srv_hoteles": {
+        "html": "<h1 class=\"rojo\">Hotels</h1>\n\t\t\t\t<p>Hotels 2,3, 4, und 5 Sterne Hosterias, Posadas und Estancias.</p>"
+      },
+      "srv_calendario": {
+        "html": "<h1 class=\"rojo\">Fauna Periode des Aufenthals </h1>\n\t\t\t\t<p>Diese Tabelle stellt die Haupttiere dar, welche in den Reserven von Punta Tombo und Península Valdes sind, und es ist eine Quelle des Hinweises für die Turoperator , zweck bessere Dienstleistungen in den Handel zu bringen und anzubieten. </p>\n\t\t\t\t<img src=\"imagenes/calendario.gif\" />\n\t\t\t\t<h4>Patagonische Wilde Tieren</h4>\n\t\t\t\t<p>Ńandues (Straussvogel), Lama (Guanacos,) maras (Pampas Hasen), piches (Gürteltiere), Fuchs, shunks, Adler, Eulen, und alle Art Vögeln.</p>\n\t\t\t\t<img src=\"imagenes/faunaestable.jpg\" />"
+      },
+      "srv_mapas": {
+        "html": "<h1 class=\"rojo\">Landkarte von der Provinz Chubut </h1>\n\t\t\t\t<h4>Hauptrichtungen und Straßen in der Provinz</h4>\n\t\t\t\t<img src=\"imagenes/mapas/principales-rutas-caminos.gif\" />\n\t\t\t\t<hr>\n\t\t\t\t<h4>Südlich-rechter Walbereich</h4>\n\t\t\t\t<img src=\"imagenes/mapas/peninsula-ballenas.gif\" />\n\t\t\t\t<hr>\n\t\t\t\t<h4>Punta Tombo - Cabo Dos Bahias</h4>\n\t\t\t\t<img src=\"imagenes/mapas/areas-protegidas-cdb-pt.gif\" />\n\t\t\t\t<hr>\n\t\t\t\t<h4>Atlantische Küste - Fischereizonen</h4>\n\t\t\t\t<img src=\"imagenes/mapas/zona-pesca-atlantica.gif\" />\n\t\t\t\t<hr>\n\t\t\t\t<h4>Reisewege für das Besuchen in Versteinerter Wald Sarmiento</h4>\n\t\t\t\t<img src=\"imagenes/mapas/bosque-recorridos.gif\" />\n\t\t\t\t<hr>\n\t\t\t\t<h4>Bereichs des Nordostens von Chubut</h4>\n\t\t\t\t<img src=\"imagenes/mapas/comarca-noreste.gif\" />"
+      },
+      "cnt": {
+        "html": "<h1 class=\"verde\">Kontakt-Formular</h1>\n\t\t\t<p>Bitte füllen Sie das Formular unten aus und wir melden uns sobald wie möglich.</p>"
+      }
+    }
+  }
+}

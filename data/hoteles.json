@@ -1,0 +1,196 @@
+{
+  "ciudades": [
+    {
+      "name": "Trelew",
+      "mapa": "https://www.openstreetmap.org/export/embed.html?bbox=-65.3400%2C-43.2700%2C-65.2700%2C-43.2200&layer=mapnik&marker=-43.2490%2C-65.3053",
+      "hoteles": [
+        {
+          "nombre": "Hotel Rayentray",
+          "imagen": "imagenes/hoteles/rayentray_tw.jpg",
+          "estrellas": 4,
+          "web": "http://www.cadenarayentray.com.ar/index_trelew.html"
+        },
+        {
+          "nombre": "Hotel Libertador",
+          "imagen": "imagenes/hoteles/libertador_tw.jpg",
+          "estrellas": 4,
+          "web": "http://www.hotellibertadortw.com.ar"
+        }
+      ]
+    },
+    {
+      "name": "Puerto Madryn",
+      "mapa": "https://www.openstreetmap.org/export/embed.html?bbox=-65.0500%2C-42.7900%2C-65.0000%2C-42.7500&layer=mapnik&marker=-42.7692%2C-65.0338",
+      "hoteles": [
+        {
+          "nombre": "Hotel Rayentray",
+          "imagen": "imagenes/hoteles/rayentray_pm.jpg",
+          "estrellas": 5,
+          "web": "http://www.cadenarayentray.com.ar/index_madryn.html"
+        },
+        {
+          "nombre": "Hotel Territorio",
+          "imagen": "imagenes/hoteles/territorio_pm.jpg",
+          "estrellas": 4,
+          "web": "http://hotelterritorio.com.ar"
+        },
+        {
+          "nombre": "Dazzler Tower",
+          "imagen": "imagenes/hoteles/dazzlertower_pm.jpg",
+          "estrellas": 4,
+          "web": "http://www.dazzlerpuertomadryn.com"
+        },
+        {
+          "nombre": "Hotel Peninsula Valdés",
+          "imagen": "imagenes/hoteles/peninsula_pm.jpg",
+          "estrellas": 4,
+          "web": "http://www.hotelpeninsula.com.ar"
+        },
+        {
+          "nombre": "Hotel Australis Yene hue",
+          "imagen": "imagenes/hoteles/australis_pm.jpg",
+          "estrellas": 4,
+          "web": "http://australisyenehue.com.ar"
+        },
+        {
+          "nombre": "Hotel Bahia Nueva",
+          "imagen": "imagenes/hoteles/bahianueva_pm.jpg",
+          "estrellas": 3,
+          "web": "http://bahianueva.com.ar"
+        },
+        {
+          "nombre": "Hotel Tolosa",
+          "imagen": "imagenes/hoteles/tolosa_pm.jpg",
+          "estrellas": 3,
+          "web": "http://www.hoteltolosa.com.ar"
+        },
+        {
+          "nombre": "Hotel Los Tulipanes",
+          "imagen": "imagenes/hoteles/lostulipanes_pm.jpg",
+          "estrellas": 3,
+          "web": "http://www.los-tulipanes.com.ar"
+        },
+        {
+          "nombre": "Hotel Pirén",
+          "imagen": "imagenes/hoteles/piren_pm.jpg",
+          "estrellas": 3,
+          "web": "http://hotelpiren.com.ar"
+        },
+        {
+          "nombre": "Hostería Solar de la Costa",
+          "imagen": "imagenes/hoteles/solardelacosta_pm.jpg",
+          "estrellas": 3,
+          "web": "http://www.solardelacosta.com.ar/"
+        },
+        {
+          "nombre": "Hotel Playa",
+          "imagen": "imagenes/hoteles/playa_pm.jpg",
+          "estrellas": 2,
+          "web": "http://www.playahotel.com.ar"
+        }
+      ]
+    },
+    {
+      "name": "Peninsula Valdes",
+      "mapa": null,
+      "hoteles": [
+        {
+          "nombre": "Hotel Faro Punta Delgada",
+          "imagen": "imagenes/hoteles/faropuntadelgada_pv.jpg",
+          "estrellas": 3,
+          "web": "http://www.puntadelgada.com"
+        },
+        {
+          "nombre": "Estancia Rincón Chico",
+          "imagen": "imagenes/hoteles/rinconchico_pv.jpg",
+          "estrellas": 3,
+          "web": "http://rinconchico.com.ar"
+        },
+        {
+          "nombre": "Estancia La Elvira",
+          "imagen": "imagenes/hoteles/laelvira_pv.jpg",
+          "estrellas": 3,
+          "web": "http://www.laelvira.com.ar"
+        },
+        {
+          "nombre": "Estancia La Ernestina",
+          "imagen": "imagenes/hoteles/laernestina_pv.jpg",
+          "estrellas": 3,
+          "web": "http://www.laernestina.com"
+        }
+      ]
+    },
+    {
+      "name": "Puerto Piramides",
+      "mapa": null,
+      "hoteles": [
+        {
+          "nombre": "Las Restingas Hotel",
+          "imagen": "imagenes/hoteles/lasrestringas_pp.jpg",
+          "estrellas": 3,
+          "web": "http://www.lasrestingas.com"
+        },
+        {
+          "nombre": "The Paradise Hostería",
+          "imagen": "imagenes/hoteles/theparadise_pp.jpg",
+          "estrellas": 0,
+          "web": "http://www.hosteriatheparadise.com.ar"
+        }
+      ]
+    },
+    {
+      "name": "Estancias y Granjas",
+      "mapa": null,
+      "hoteles": [
+        {
+          "nombre": "Estancia San Guillermo",
+          "imagen": "imagenes/hoteles/sanguillermo_es.jpg",
+          "estrellas": 0,
+          "web": "http://www.san-guillermo.com"
+        },
+        {
+          "nombre": "Posada Los Mimbres",
+          "imagen": "imagenes/hoteles/losmimbres_es.jpg",
+          "estrellas": 0,
+          "web": "http://www.posadalosmimbres.com.ar"
+        }
+      ]
+    },
+    {
+      "name": "Playa Union",
+      "mapa": null,
+      "hoteles": [
+        {
+          "nombre": "Hotel Punta León",
+          "imagen": "imagenes/hoteles/puntaleon_pu.jpg",
+          "estrellas": 3,
+          "web": "http://www.hotelpuntaleon.com.ar"
+        }
+      ]
+    },
+    {
+      "name": "Punta Ninfas",
+      "mapa": null,
+      "hoteles": [
+        {
+          "nombre": "Estancia El Pedral",
+          "imagen": "imagenes/hoteles/elpedral_ni.jpg",
+          "estrellas": 0,
+          "web": "http://www.elpedral.com"
+        }
+      ]
+    },
+    {
+      "name": "Bahia Bustamante",
+      "mapa": null,
+      "hoteles": [
+        {
+          "nombre": "Casas Bahía Bustamante",
+          "imagen": "imagenes/hoteles/casas_bm.jpg",
+          "estrellas": 0,
+          "web": ""
+        }
+      ]
+    }
+  ]
+}
