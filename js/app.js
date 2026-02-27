@@ -95,7 +95,7 @@ function render() {
 
   updateNav(lang, data);
   updateHeaderBand(data);
-  updateSidebar(lang, data);
+  updateSidebar(lang);
   updateFooter(lang, data);
   renderContent(lang, data, params);
 }
@@ -166,38 +166,23 @@ function updateHeaderBand(data) {
 }
 
 // ── Right sidebar ──────────────────────────────────────────────────────────
-function updateSidebar(lang, data) {
+function updateSidebar(lang) {
   if (sidebarInterval) {
     clearInterval(sidebarInterval);
     sidebarInterval = null;
   }
 
-  if (data === 'nos') {
-    $('#sidebar-right').html(
-      '<div>' +
-        '<span class="cuadroder" style="margin: 0px 12px;">' +
-          '<a href="#">' +
-            '<h4>Jose Pedro Miranda</h4>' +
-            '<p>En memoria</p>' +
-            '<p>1923-2015</p>' +
-          '</a>' +
-        '</span>' +
-        '<span style="position: absolute;"><img src="imagenes/miranda.jpg"></span>' +
-      '</div>'
-    );
-  } else {
-    var cuadroder = inicioData[lang] ? inicioData[lang].cuadroder : '';
-    $('#sidebar-right').html(cuadroder);
+  var cuadroder = inicioData[lang] ? inicioData[lang].cuadroder : '';
+  $('#sidebar-right').html(cuadroder);
 
-    // Fade-cycle the cuadroder divs (mirrors header.php #slider logic)
-    $('#sidebar-right div:gt(0)').hide();
-    sidebarInterval = setInterval(function () {
-      $('#sidebar-right div:first-child')
-        .fadeOut(0)
-        .next('div').fadeIn(1000)
-        .end().appendTo('#sidebar-right');
-    }, 4000);
-  }
+  // Fade-cycle the cuadroder divs (mirrors header.php #slider logic)
+  $('#sidebar-right div:gt(0)').hide();
+  sidebarInterval = setInterval(function () {
+    $('#sidebar-right div:first-child')
+      .fadeOut(0)
+      .next('div').fadeIn(1000)
+      .end().appendTo('#sidebar-right');
+  }, 4000);
 }
 
 // ── Footer ─────────────────────────────────────────────────────────────────

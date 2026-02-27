@@ -10,80 +10,10 @@
 <style>
   #slides { display: none; }
   .slidesjs-navigation { display: none !important; }
-
-  /* Disclaimer modal */
-  #disclaimer-overlay {
-    position: fixed;
-    inset: 0;
-    background: rgba(0, 0, 0, 0.65);
-    z-index: 9999;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  #disclaimer-box {
-    background: #fff;
-    max-width: 480px;
-    width: 90%;
-    border-radius: 4px;
-    padding: 32px 28px 24px;
-    box-shadow: 0 6px 32px rgba(0,0,0,0.35);
-    text-align: center;
-    font-family: sans-serif;
-  }
-  #disclaimer-box h2 {
-    margin: 0 0 12px;
-    font-size: 1.1em;
-    color: #b76c61;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-  }
-  #disclaimer-box p {
-    font-size: 0.93em;
-    color: #444;
-    line-height: 1.6;
-    margin: 0 0 8px;
-  }
-  #disclaimer-box a {
-    color: #017dc5;
-    font-weight: bold;
-  }
-  #disclaimer-close {
-    display: inline-block;
-    margin-top: 20px;
-    padding: 9px 28px;
-    background: #5987ab;
-    color: #fff;
-    border: none;
-    border-radius: 3px;
-    cursor: pointer;
-    font-size: 0.9em;
-    letter-spacing: 0.03em;
-  }
-  #disclaimer-close:hover { background: #017dc5; }
 </style>
 </head>
 <body>
 
-<!-- Disclaimer modal — shown immediately on load -->
-<div id="disclaimer-overlay">
-  <div id="disclaimer-box">
-    <h2>⚠ Aviso / Notice</h2>
-    <p>
-      Esta es una <strong>versión de archivo</strong> del sitio de Company Tours.
-      La información, precios y disponibilidad pueden no estar actualizados.
-    </p>
-    <p>
-      This is an <strong>archived version</strong> of the Company Tours website.
-      Content, prices and availability may no longer be accurate.
-    </p>
-    <p style="margin-top:12px;">
-      Para la versión actual / For the current version:<br>
-      <a href="https://companytours.tur.ar" target="_blank">companytours.tur.ar</a>
-    </p>
-    <button id="disclaimer-close">Entendido / Understood</button>
-  </div>
-</div>
 
 <div id="container">
   <div id="wrapper">
@@ -92,7 +22,7 @@
     <div class="fullwidth" id="header">
       <div class="logo" style="display: inline-block;">
         <a href="index.html" id="logo-link">
-          <img src="imagenes/logo.svg" border="0" />
+          <img src="imagenes/logo.png" border="0" />
         </a>
       </div>
 
@@ -121,13 +51,6 @@
         <div class="fullwidth">
           <div style="width: 100%;">
             <div id="header-media"></div>
-          </div>
-          <!-- Facebook widget -->
-          <div class="tabloque largo">
-            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNievemarTours%2F&tabs&width=320&height=70&small_header=false&adapt_container_width=false&hide_cover=false&show_facepile=false&appId"
-                    width="320" height="70" style="border:none;overflow:hidden"
-                    scrolling="no" frameborder="0" allowTransparency="true"
-                    allow="encrypted-media"></iframe>
           </div>
         </div>
       </div>
@@ -158,17 +81,5 @@
 <script src="js/jquery.min.js"></script>
 <script src="js/jquery.slides.min.js"></script>
 <script src="js/app.js"></script>
-<script>
-  (function () {
-    function closeDisclaimer() {
-      var overlay = document.getElementById('disclaimer-overlay');
-      if (overlay) overlay.style.display = 'none';
-    }
-    document.getElementById('disclaimer-close').addEventListener('click', closeDisclaimer);
-    document.getElementById('disclaimer-overlay').addEventListener('click', function (e) {
-      if (e.target === this) closeDisclaimer();
-    });
-  })();
-</script>
 </body>
 </html>
