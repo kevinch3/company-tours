@@ -1,7 +1,7 @@
 # Company Tours — Static Site Archive
 
-Archived version of the **Company Tours** website, originally built in PHP + XML (c. 2017).
-This version is fully static and can be hosted on GitHub Pages with no backend required.
+Archived version of the **Company Tours** website, originally built in PHP + XML.
+The site was active from **2013 to 2019**. This version is fully static and can be hosted on GitHub Pages with no backend required.
 
 > **Note:** This is a historical archive. For the current, live site visit [companytours.tur.ar](https://companytours.tur.ar).
 
